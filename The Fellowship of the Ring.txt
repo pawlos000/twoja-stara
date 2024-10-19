@@ -1,0 +1,1772 @@
+{1}{100}www.napiprojekt.pl - nowa jakoœæ napisów.|Napisy zosta³y specjalnie dopasowane do Twojej wersji filmu.
+{720}{760}"I amar prestar aen..."
+{791}{863}Œwiat siê zmieni³...
+{868}{941}"Han mathon ne nen..."|Czujê to w wodzie...
+{959}{1029}"Han mathon ne chae..."|Czujê to w ziemi...
+{1067}{1139}"A han noston ne gwilith..."|Wyczuwam to w powietrzu...
+{1148}{1194}Wiele z tego, co niegdyœ by³o...
+{1199}{1236}...przepad³o.
+{1253}{1326}Nikt ju¿ nie ¿yje z tych,|którzy by o tym pamiêtali.
+{1356}{1490}W£ADCA PIERŒCIENI
+{1635}{1740}Wszystko zaczê³o siê od wykucia Pierœcieni Mocy.
+{1745}{1790}Trzy zosta³y dane Elfom...
+{1795}{1886}nieœmiertelnym, najmêdrszym|i najbli¿szym magii spoœród wszystkich ras.
+{1911}{1961}Siedem - w³adcom Krasnoludów, wspania³ym górnikom,...
+{1979}{2085}...twórcom górskich podziemi.
+{2096}{2126}I dziewiêæ...
+{2131}{2203}...dziewiêæ Pierœcieni zosta³o|podarowanych rasie Ludzi,...
+{2208}{2300}którzy ponad wszystko inne po¿¹dali w³adzy.
+{2327}{2452}W tych pierœcieniach zawarta by³a si³a i wola,|aby rz¹dziæ ka¿d¹ z ras.
+{2488}{2564}Ale wszyscy oni zostali oszukani.
+{2570}{2620}Powsta³ bowiem jeszcze jeden Pierœcieñ.
+{2640}{2726}W krainie Mordor,|w ogniach góry Orodruiny...
+{2736}{2843}...W³adca Ciemnoœci, Sauron,|wyku³ w sekrecie Jedyny Pierœcieñ...
+{2848}{2897}by kontrolowaæ wszystkie pozosta³e.
+{2902}{2997}W ten pierœcieñ wla³ ca³e|swe okrucieñstwo, z³oœliwoœæ...
+{3002}{3103}...i wolê dominacji nad wszelkim ¿yciem.
+{3126}{3219}Jeden Pierœcieñ, by rz¹dziæ wszystkimi...
+{3239}{3279}Jedna po drugiej...
+{3284}{3396}wolne krainy Œródziemia|ulega³y mocy Pierœcienia.
+{3401}{3474}Ale byli te¿ tacy,|którzy stawiali opór.
+{3485}{3597}Ostatni sojusz pomiêdzy LudŸmi i Elfami,|maszerowa³ przeciwko armiom Mordoru.
+{3602}{3713}I na zboczach Orodruiny walczy³|o wolnoœæ krain Œródziemia.
+{4021}{4080}"Tangado a chadad!"|Przygotowaæ siê do strza³u!
+{4440}{4503}Zwyciêstwo by³o bliskie...
+{4617}{4659}...ale moc Pierœcienia...
+{4679}{4713}...by³a nieograniczona.
+{5303}{5348}W tym w³aœnie momencie,
+{5354}{5410}...kiedy ca³a nadzieja zda³a siê wygasaæ...
+{5416}{5515}Isildur, syn króla,|podniós³ miecz swego ojca.
+{6259}{6415}Sauron, wróg wolnych ludów Œródziemia,|zosta³ pokonany.
+{6580}{6632}Pierœcieñ przeszed³ na Isildura,
+{6637}{6738}który mia³ t¹ jedyn¹ szansê,|by zniszczyæ z³o na zawsze.
+{6755}{6806}Ale serce cz³owieka z ³atwoœci¹...
+{6811}{6871}...mo¿na znieprawiæ.
+{6877}{6988}...a Pierœcieñ W³adzy okaza³ w³asn¹ moc.
+{7592}{7655}Zdradzi³ Isildura...
+{7699}{7757}...doprowadzaj¹c do jego œmierci.
+{7857}{7950}I pewne rzeczy, które nie powinny byæ zapomniane...
+{7955}{8011}...przepad³y.
+{8031}{8084}Historia sta³a siê legend¹...
+{8089}{8137}...legenda sta³a siê mitem.
+{8142}{8210}W ci¹gu 2500 lat...
+{8215}{8304}...o Pierœcieniu ca³kowicie zapomniano...
+{8319}{8387}...a¿ do chwili, kiedy nadesz³a szansa...
+{8403}{8478}i usidli³ nowego w³aœciciela.
+{8510}{8626}< "Mój sskarb..." >
+{8632}{8692}Pierœcieñ przeszed³ w posiadanie Golluma,...
+{8697}{8791}...który zabieraj¹c go w g³êbokie groty|Gór Mglistych...
+{8798}{8867}zosta³ przezeñ opanowany.
+{8872}{8921}< "Przyszed³ do mnie..." >
+{8926}{9032}< "Mój Jedyny..."|"Moja Mi³oœæ" >
+{9037}{9150}< "Mój Ssskarb..." >
+{9237}{9319}Pierœcieñ da³ Gollumowi nienaturalnie d³ugie ¿ycie.
+{9324}{9416}Przez 500 lat zatruwa³ jego umys³...
+{9421}{9531}i w mroku jaskini Golluma, czeka³...
+{9536}{9614}Ciemnoœæ zakrad³a siê znowu|do lasów Œródziemia.
+{9620}{9688}Pog³oska rozros³a siê w cieñ na Wschodzie,
+{9693}{9760}szepcz¹c o nienazwanym strachu...
+{9765}{9844}Wtedy Pierœcieñ W³adzy spostrzeg³,...
+{9849}{9916}...¿e jego czas nadszed³.
+{9974}{10038}Porzuci³ Golluma.
+{10054}{10162}Zdarzy³o siê wtedy jednak coœ,|czego Pierœcieñ nie przewidzia³.
+{10182}{10292}Zosta³ podniesiony przez najmniej|oczekiwane w tym miejscu stworzenie...
+{10297}{10322}"Co to?"
+{10327}{10361}Hobbita...
+{10366}{10432}Bilbo Bagginsa z Shire'u.
+{10437}{10479}"Pierœcieñ."
+{10484}{10529}< "Zgin¹³!" >
+{10595}{10678}< "Mój Ssskarb zgin¹³!" >
+{10683}{10738}Wkrótce mia³y nadejœæ czasy,
+{10744}{10868}gdy w rêkach hobbitów bêd¹|losy wszystkich.
+{10982}{11055}Dwudziesty drugi dzieñ wrzeœnia...
+{11060}{11137}... roku tysi¹c czterysta dwudziestego,
+{11142}{11196}... wed³ug rachuby Shire'u.
+{11201}{11339}Bag End, Bagshot Row, Hobbiton, Zachodnia Æwiartka...
+{11344}{11392}Shire...
+{11397}{11465}Œródziemie.
+{11576}{11656}Trzecia Era tego Œwiata...
+{11731}{11810}DRU¯YNA PIERŒCIENIA
+{11933}{12028}"Tam i z powrotem"
+{12042}{12085}Historia o Hobbitach...
+{12090}{12183}spisana przez Bilbo Bagginsa.
+{12300}{12341}A teraz...
+{12359}{12406}...jak tu zacz¹æ?
+{12438}{12462}Ach, tak...
+{12570}{12614}"O...
+{12642}{12679}...hobbitach."
+{12707}{12790}Hobbici ¿yj¹ i uprawiaj¹ ziemiê|na Czterech Æwiartkach Shire'u...
+{12796}{12842}...od wielu stuleci.
+{12848}{12918}Ca³kiem zadowoleni z tego,|¿e ignoruj¹ i s¹ ignorowani
+{12924}{12999}przez œwiat Du¿ych Ludzi...
+{13009}{13142}Mimo wszystko, Œródziemie|jest pe³ne dziwnych stworzeñ, których nie bierze siê pod uwagê...
+{13148}{13223}Hobbici siê tym nie przejmuj¹,
+{13228}{13324}...nie ws³awiaj¹ siê, jako wielcy wojownicy...
+{13329}{13429}...nie s¹ te¿ zaliczani do grona najm¹drzejszych.
+{13534}{13606}Frodo!|Ktoœ puka do drzwi!
+{13635}{13696}W³aœciwie, jak ktoœ zauwa¿y³,
+{13701}{13807}...prawdziwa namiêtnoœæ Hobbitów to jedzenie.
+{13816}{13868}By³a to raczej niesprawiedliwa ocena,
+{13873}{13961}...gdy¿ rozwinêliœmy równie¿ umiejêtnoœæ warzenia piwa...
+{13971}{14037}...i palenia fajkowego ziela.
+{14048}{14116}Ale nasze serca najbardziej kochaj¹
+{14121}{14171}...spokój i ciszê...
+{14188}{14240}...oraz dobr¹, uprawion¹ ziemiê.
+{14245}{14369}Gdy¿ wszyscy hobbici kochaj¹ wszystko to,|co roœnie...
+{14445}{14549}I owszem, dla innych bez w¹tpienia,|nasze zwyczaje wydaj¹ siê staromodne.
+{14554}{14680}Ale dzisiaj, przez pryzmat dawnych dni,|przypomina mi siê dom.
+{14694}{14837}Nie ma nic z³ego w celebrowaniu prostego ¿ycia.
+{14936}{15013}Frodo! Drzwi!
+{15105}{15150}A niech to! Gdzie jest ten ch³opak?
+{15155}{15196}Frodo!
+{15335}{15420}"A droga wiedzie w przód i w przód..."
+{15534}{15625}"A ja wci¹¿ za ni¹ - tak jak mogê..."
+{15649}{15748}"A droga wiedzie w przód i w przód,"
+{15753}{15836}"Choæ siê zaczê³a tu¿ za progiem"
+{15841}{15960}"I w dal przede mn¹ mknie na wschód,"
+{15976}{16066}"A ja wci¹¿ za ni¹ - tak jak mogê..."
+{16080}{16130}SpóŸni³eœ siê.
+{16145}{16236}Czarodziej nigdy siê nie spóŸnia,|Frodo Baggins.
+{16255}{16366}Nie pojawia siê te¿ za wczeœnie.|Przybywa dok³adnie wtedy, kiedy zamierza.
+{16638}{16712}Wspaniale ciê widzieæ, Gandalfie.
+{16805}{16894}Chyba nie myœlisz,|¿e przegapi³bym urodziny twojego wuja, Bilba.
+{16935}{16986}A jak tam siê miewa nasz stary ³obuz?
+{16999}{17083}S³ysza³em, ¿e zapowiada siê niezwykle wykwintne przyjêcie.
+{17088}{17146}Znasz Bilba, poruszy³ ca³e to miejsce.
+{17151}{17197}Có¿, to powinno go zadowoliæ.
+{17202}{17247}Po³owa Shire zosta³a zaproszona.
+{17253}{17316}A ca³a reszta, tak czy inaczej,|te¿ siê pojawi.
+{17392}{17471}I tak toczy siê ¿ycie w Shire...
+{17476}{17548}Takie samo jak to, by³o przez ca³y mijaj¹cy wiek.
+{17553}{17685}...pe³ne swoich w³asnych wyjazdów i powrotów,|ze zmianami, które przychodzi³y wolno...
+{17690}{17736}Jeœli w ogóle przychodzi³y...
+{17766}{17848}Bo rzeczy w Shire zosta³y stworzone, ¿eby przetrwaæ...
+{17853}{17937}przechodz¹c z jednego pokolenia na kolejne.
+{17947}{18066}Tutaj zawsze mieszka³ jakiœ Baggins,|pod Pagórkiem...
+{18071}{18103}...w Bag End.
+{18169}{18236}I zawsze bêdzie.
+{18253}{18335}Mówi¹c szczerze...|Bilbo dziwnie siê ostatnio zachowuje.
+{18365}{18418}To znaczy, bardziej ni¿ zwykle...
+{18443}{18488}Pogr¹¿a siê w nauce...
+{18526}{18625}Kiedy myœli, ¿e nie patrzê, spêdza ca³e|godziny na przegl¹daniu starych map.
+{18931}{18970}Gdzie on znikn¹³?
+{19610}{19663}On coœ planuje.|Có¿, mo¿e...
+{19859}{19918}W porz¹dku, miejcie swoje sekrety.|Co?
+{19924}{19965}Ale ja wiem, ¿e ty masz z tym coœ wspólnego.
+{19971}{19995}Co ty opowiadasz?
+{20007}{20072}Zanim siê pojawi³eœ,|my Bagginsowie, mieliœmy dobr¹ opiniê.
+{20078}{20099}W istocie.
+{20106}{20159}Nigdy nie mieliœmy ¿adnych przygód|i nie robiliœmy niczego niespodziewanego.
+{20173}{20314}Jeœli nawi¹zujesz do incydentu ze smokiem,|by³em ledwo zaanga¿owany.
+{20319}{20404}Tr¹ci³em tylko twego wuja lekko ³okciem przy drzwiach.
+{20409}{20508}Cokolwiek zrobi³eœ, zosta³eœ oficjalnie zaszufladkowany|jako m¹ciciel porz¹dku.
+{20517}{20562}Naprawdê?
+{20699}{20745}-Gandalf! Gandalf!
+{20893}{20922}-Fajerwerki, Gandalf!
+{20996}{21059}-Gandalf!|-Fajerwerki, Gandalfie!
+{21511}{21536}Gandalfie?
+{21550}{21648}Cieszê siê, ¿e wróci³eœ.|Ja te¿, drogi ch³opcze.
+{21754}{21798}Ja te¿...
+{22410}{22470}< Nie wchodziæ. Nie dotyczy spraw|zwi¹zanych z przyjêciem urodzinowym. >
+{22561}{22595}Nie, dziêkujê!
+{22600}{22695}Nie chcemy wiêcej goœci,|sympatyków, czy te¿ dalekich krewnych.
+{22700}{22784}A co powiesz na bardzo starych przyjació³?
+{22860}{22901}Gandalf?
+{22916}{23000}Bilbo Baggins.|Mój drogi Gandalf!
+{23005}{23128}Dobrze ciê widzieæ.. 111 lat.|Kto by pomyœla³?
+{23170}{23218}Nie zestarza³eœ siê nawet o dzieñ...
+{23378}{23425}Dalej, wchodŸ!
+{23430}{23487}Witam, witam.
+{23515}{23576}I ju¿...
+{23616}{23674}Herbatê, a mo¿e coœ trochê mocniejszego?
+{23679}{23770}Mam kilka butelek ze starej winnicy.|Rocznik 1296.
+{23775}{23872}Bardzo dobry rocznik. Prawie tak stary, jak ja.
+{23900}{24007}Zosta³a za³o¿ona przez mojego ojca.|Co ty na to, ¿eby otworzyæ jedn¹?
+{24012}{24076}Wystarczy herbata, dziêkujê.
+{24230}{24269}Spodziewa³em siê ciebie|w zesz³ym tygodniu.
+{24274}{24353}Ale czy to wa¿ne... Ty przychodzisz i odchodzisz,|wedle swojego gustu. Tak jak zwyk³eœ to robiæ.
+{24358}{24483}Obawiam siê, ¿e przy³apa³eœ mnie nieco nieprzygotowanego..|Mamy tylko zimnego kurczaka i trochê pikli....
+{24488}{24569}Jest tu trochê sera.|Nie, nic z tego nie bêdzie.
+{24574}{24668}Mam d¿em malinowy,|placek jab³kowy...
+{24684}{24780}Ale nie mamy nic na póŸniej.|O nie!... Wszystko w porz¹dku!
+{24785}{24853}W³aœnie znalaz³em trochê biszkopta.
+{24922}{24954}Móg³bym przyrz¹dziæ kilka jajek,|jeœli chc...
+{25046}{25110}Tylko herbatê, dziêkujê.|Ach, tak.
+{25136}{25191}Nie bêdzie ci przeszkadzaæ, gdy bêdê jad³?|Nie, sk¹d¿e.
+{25218}{25263}< Bilbo! Bilbo Baggins! >
+{25268}{25306}Nie ma mnie w domu.
+{25450}{25511}To Bagginsowie z Sackville.
+{25517}{25566}< Wiem, ¿e tam jesteœ! >|Przyszli w sprawie domu.
+{25583}{25642}Nigdy mi nie wybaczyli,|¿e tak d³ugo ¿yjê.
+{25648}{25714}Muszê uciec od tych przeklêtych krewnych,|którzy ci¹gle wisz¹ na dzwonku
+{25719}{25766}...nie daj¹c mi ani chwili spokoju.
+{25783}{25867}Chcê znowu zobaczyæ góry!|Góry Gandalfie!
+{25872}{25981}A potem znaleŸæ siê w jakimœ spokojnym miejscu,|gdzie bêdê móg³ skoñczyæ moj¹ ksi¹¿kê. O, herbata.
+{25986}{26080}Wiêc zamierzasz trzymaæ siê planu?|Tak, tak, wszystko mam pod kontrol¹.
+{26085}{26138}Poczyni³em wszelkie przygotowania.
+{26190}{26225}O, dziêkujê.
+{26242}{26292}Frodo coœ podejrzewa?
+{26298}{26356}No pewnie, ¿e tak. To Baggins...
+{26362}{26424}...nie jakiœ zakuty ³eb z Bracegirdle'ów z Hardbottle.
+{26437}{26505}Powiesz mu, prawda?
+{26526}{26574}Tak, tak.|On ciê bardzo lubi.
+{26628}{26665}Wiem.
+{26720}{26801}Prawdopodobnie poszed³by ze mn¹,|gdybym go o to poprosi³.
+{26817}{26898}Myœlê, ¿e Frodo w swoim sercu|wci¹¿ jest zakochany w Shire.
+{26936}{26991}Lasach, polach...
+{26996}{27052}...ma³ych rzeczkach.
+{27159}{27224}Jestem stary Gandalfie.
+{27256}{27383}Wiem, ¿e nie wygl¹dam...|ale zaczynam czuæ to w moim sercu.
+{27435}{27495}Czujê siê...cienki,
+{27500}{27541}jakby rozci¹gniêty...
+{27572}{27651}...jak mas³o rozsmarowane na|zbyt du¿ej kromce chleba.
+{27656}{27764}Potrzebujê wakacji... bardzo d³ugich wakacji.
+{27769}{27846}I nie spodziewam siê, ¿e wrócê.
+{27899}{27976}W³aœciwie, nie mam takiego zamiaru.
+{28040}{28138}"Stary Toby"... najlepsze fajkowe ziele z Po³udniowej Æwiartki.
+{28554}{28615}Gandalfie, stary przyjacielu...
+{28620}{28688}...to bêdzie noc godna zapamiêtania.
+{29235}{29261}Witam, witam.
+{29267}{29364}Grubas Bolger. Wspaniale was widzieæ.|Witamy, witamy.
+{29389}{29450}Dalej Samie,|poproœ Ró¿yczkê do tañca.
+{29513}{29598}Chyba postawiê sobie jeszcze jedno piwo.|A w³aœnie, ¿e nie.
+{29623}{29666}No idŸ!
+{29909}{29953}Wiêc, sta³em tam...
+{29958}{30055}...zdany na ³askê trzech potwornych trolli...
+{30060}{30108}a one sprzecza³y siê miêdzy sob¹...
+{30113}{30170}...o to, jakby nas ugotowaæ.
+{30175}{30296}Czy rozerw¹ nas na kawa³ki,|czy bêd¹ siadaæ na nas po kolei i zmia¿d¿¹ na galaretê.
+{30320}{30405}Ale spêdzili tyle czasu na k³óceniu siê,|rozpatruj¹c za i przeciw,...
+{30410}{30486}...¿e œwiat³o s³oneczne zakrad³o siê za czubki drzew...
+{30495}{30510}bach!
+{30520}{30580}...i zamieni³o ich wszystkich w kamieñ!
+{30706}{30740}Szybko!
+{30840}{30889}I do góry!
+{30958}{30987}Nie, nie. T¹ wielk¹, najwiêksz¹.
+{31207}{31275}Pani Bracegirdle, mi³o pani¹ widzieæ.|Witam, witam.
+{31280}{31325}Te wszystkie dzieci s¹ pani?|Tak.
+{31330}{31402}Wielkie nieba, to siê pani napracowa³a.
+{31450}{31482}Bilbo?
+{31523}{31564}Bagginsowie z Sackville!
+{31569}{31595}Szybko, schowajmy siê!
+{31831}{31885}Dziêkujê ch³opcze.
+{31921}{31977}Jesteœ dobrym m³odzieñcem, Frodo.
+{32006}{32075}Wiesz...|Jestem bardzo samolubny...
+{32085}{32169}Tak, jestem... Bardzo samolubny...
+{32177}{32228}Nie wiem, dlaczego przygarn¹³em ciê,|gdy twoja matka i ojciec umarli...
+{32233}{32270}...ale nie zrobi³em tego bezinteresownie.
+{32283}{32317}Myœlê, ¿e zrobi³em to dlatego,...
+{32322}{32377}...¿e ze wszystkich moich licznych krewnych,
+{32385}{32469}...by³eœ jedynym Bagginsem,|który wykazywa³ prawdziwego ducha.
+{32476}{32519}Bilbo, pi³eœ coœ dzisiaj u Gaffer'a?
+{32525}{32564}Nie.
+{32572}{32633}No có¿, tak, ale to nie o to chodzi...
+{32639}{32717}chodzi o to Frodo,...
+{32791}{32840}...¿e wszystko bêdzie dobrze.
+{32921}{32970}Zrobione!|Powinieneœ to wbiæ w ziemiê.
+{32975}{33010}Jest w ziemi.|Na zewn¹trz!
+{33015}{33052}To by³ twój pomys³.
+{33432}{33469}Bilbo.
+{33496}{33562}Bilbo, uwa¿aj na smoka!
+{33568}{33648}Smoka?! Nonsens!|W tych stronach nie by³o smoka od tysiêcy lat.
+{33971}{34058}To by³o dobre...|WeŸmy nastêpn¹...
+{34089}{34197}Meriadok Brandybuck i Peregrin Tuk.
+{34202}{34247}Mog³em siê domyœliæ.
+{34388}{34438}Przemowa, Bilbo!
+{34459}{34490}Przemowa! Przemowa!
+{34495}{34520}Przemowa!
+{34646}{34700}Moi drodzy Bagginsowie i Boffinowie,
+{34719}{34771}...Tukowie i Brandybuckowie...
+{34776}{34836}...Grubbowie, Czubbowie...
+{34841}{34866}...Hornblowerowie...
+{34894}{34934}...Bolgerowie...
+{34943}{34980}...Bracegirdle'owie...
+{34985}{35048}-...i Proudfootowie!|-Proudfeetowie!
+{35100}{35176}Dzisiaj s¹ moje 111 urodziny.
+{35219}{35256}Wszystkiego najlepszego!
+{35261}{35363}Niestety, 111 lat to zbyt krótki czas,|¿eby ¿yæ...
+{35368}{35438}...poœród tak wspania³ych|i godnych podziwu Hobbitów...
+{35460}{35526}Ani po³owy, spoœród z was nie znam|nawet w po³owie tak dobrze, jak bym pragn¹³...
+{35531}{35641}...a mniej ni¿ po³owê z was, lubiê|o po³owê mniej, ni¿ na to zas³ugujecie.
+{35880}{35937}Ja... Mam sprawy do za³atwienia...
+{36090}{36141}Ju¿ i tak za d³ugo to odk³ada³em.
+{36233}{36328}Z ¿alem zawiadamiam, ¿e to jest koniec.
+{36356}{36384}Wyje¿d¿am teraz...
+{36411}{36480}¯yczê wam mi³ego przyjêcia po¿egnalnego.
+{36537}{36566}Do widzenia.
+{37363}{37438}Domyœlam siê, ¿e uwa¿asz,|i¿ to by³o niesamowicie m¹dre.
+{37443}{37523}Daj spokój, Gandalfie.|Widzia³eœ ich twarze?
+{37528}{37649}Jest wiele magicznych pierœcieni na tym œwiecie,|i ¿aden z nich nie powinien byæ u¿yty w taki sposób.
+{37654}{37706}To mia³o byæ trochê zabawne.
+{37711}{37800}Ach, pewnie masz racjê...|jak zwykle.
+{37833}{37918}Bêdziesz mia³ oko na Froda, prawda?|Nawet parê oczu.
+{37923}{37987}Tak czêsto jak bêdê mia³ je wolne.
+{37992}{38068}Zostawiam mu wszystko...|A co z tym twoim pierœcieniem?
+{38073}{38153}Czy, on te¿ zostaje?|Tak, tak.
+{38168}{38261}Jest w kopercie... tam, na gzymsie kominka.
+{38287}{38358}Nie...zaczekaj on jest...
+{38418}{38483}...tutaj, w mojej kieszeni.
+{38590}{38671}Czy to nie jest...|Czy to nie jest dziwne?
+{38711}{38795}A w³aœciwie, czemu nie...
+{38832}{38949}Dlaczego nie mia³bym go zatrzymaæ?|Myœlê, ¿e powinieneœ go pozostawiæ, Bilbo.
+{38959}{39011}Czy, to takie trudne?
+{39016}{39048}Có¿... nie...
+{39105}{39142}I tak...
+{39189}{39263}Teraz, kiedy ju¿ do tego dosz³o,|nie mam ochoty siê z nim rozstaæ...
+{39268}{39310}On jest mój, ja go znalaz³em, on przyszed³ do mnie!
+{39315}{39416}Nie ma powodu do gniewu.|To ¿e jestem z³y, to twoja wina!
+{39427}{39470}Jest mój.
+{39500}{39559}Mój w³asny...
+{39568}{39662}Mój skarb.|Skarb?
+{39668}{39737}By³ ju¿ tak kiedyœ nazywany...|ale nie przez ciebie.
+{39743}{39803}To nie twój interes,|co zrobiê z moimi w³asnymi rzeczami!
+{39809}{39875}Myœlê, ¿e mia³eœ ten pierœcieñ|ju¿ wystarczaj¹co d³ugo.
+{39880}{39948}Chcesz go dla siebie!|Bilbo Baggins!
+{39953}{40054}Nie bierz mnie za jakiegoœ kuglarza|od tanich sztuczek!
+{40060}{40147}Nie próbujê ciê okraœæ.
+{40268}{40309}Próbujê ci pomóc.
+{40512}{40591}Przez te wszystkie d³ugie lata,|byliœmy przyjació³mi.
+{40602}{40652}Zaufaj mi, jak kiedyœ zaufa³eœ.
+{40697}{40741}Pozwól mu odejœæ.
+{40767}{40826}Masz racjê, Gandalfie.
+{40876}{40941}Pierœcieñ musi przejœæ do Frodo.
+{40973}{41044}Ju¿ póŸno, a droga d³uga.
+{41049}{41109}Tak, nadszed³ czas.
+{41174}{41296}Bilbo,... pierœcieñ jest wci¹¿ w twojej kieszeni.
+{42128}{42201}Myœla³em o zakoñczeniu do mojej ksi¹¿ki:
+{42240}{42360}"I od tej chwili ¿y³ d³ugo i szczêœliwie...|Do koñca swoich dni."
+{42365}{42447}I jestem pewien, ¿e bêdziesz,|mój drogi przyjacielu.
+{42472}{42507}Do widzenia, Gandalfie.
+{42567}{42636}Do widzenia, drogi Bilbo.
+{42823}{42925}"A droga wiedzie w przód i w przód..."
+{42986}{43044}Do naszego nastêpnego spotkania.
+{43699}{43786}< "Jest mój, mój w³asny..." >
+{43791}{43874}< "Mój sskarb!" >
+{43880}{43950}Zagadki w ciemnoœciach...
+{43955}{43989}Bilbo!
+{43994}{44031}Bilbo!
+{44118}{44189}Mój skarb...
+{44227}{44280}Skarb.
+{44285}{44346}Odszed³, prawda?
+{44412}{44486}Tak d³ugo mówi³ o odejœciu...
+{44491}{44556}ale nie s¹dzi³em, ¿e naprawdê to zrobi.
+{44663}{44709}Gandalfie...
+{44907}{44947}Pierœcieñ Bilba.
+{44955}{45012}Odszed³, by zostaæ z Elfami.
+{45017}{45091}Zostawi³ ci Bag End.
+{45178}{45238}Wraz z ca³ym dobytkiem.
+{45243}{45313}Pierœcieñ jest teraz twój.
+{45375}{45458}Po³ó¿ go gdzieœ w ustronnym miejscu.|Dok¹d idziesz?
+{45463}{45517}Jest kilka rzeczy, którymi muszê siê zaj¹æ.|Jakie rzeczy?
+{45522}{45625}Pytania... pytania, które wymagaj¹ odpowiedzi.|Dopiero co przyjecha³eœ.
+{45646}{45709}Nie rozumiem.
+{45788}{45813}Ani ja.
+{45891}{45946}Trzymaj go w sekrecie.
+{45951}{45994}Zaopiekuj siê nim.
+{46833}{46884}Shire...
+{46892}{46966}Baggins...
+{48130}{48200}"Rok 3434 Drugiej Ery."
+{48205}{48310}"Oto relacja Isildura,|najwy¿szego króla Gondoru..."
+{48315}{48403}...dotycz¹ca odnalezienia Pierœcienia W³adzy."
+{48487}{48531}"Przyszed³ do mnie..."
+{48536}{48619}"Jedyny Pierœcieñ, który stanie siê|dziedzictwem mego królestwa."
+{48624}{48706}"Wszyscy, w których ¿y³ach pop³ynie moja krew,|zwi¹zani bêd¹ z jego losem."
+{48711}{48802}"Zaryzykujê wszystko, ¿eby Pierœcieñ nie dozna³ krzywdy."
+{48807}{48867}"Jest mi drogi..."
+{48888}{48951}"mimo, ¿e p³acê za niego cenê wielkiego bólu."
+{49026}{49127}"Znaki na pierœcieniu zaczynaj¹ bledn¹æ."
+{49135}{49248}"Napis, z pocz¹tku wyraŸny,|niczym krwawy p³omieñ, znikn¹³."
+{49253}{49350}"Tajemnica, któr¹ tylko ogieñ mo¿e wyjawiæ."
+{49746}{49817}Shire.
+{49822}{49870}Baggins.
+{49882}{49979}Tu nie ma Bagginsów.|S¹ w Hobbitonie.
+{50020}{50056}W tamt¹ stronê!
+{50200}{50252}"Uleczyæ me serce i utopiæ ¿ale"
+{50257}{50312}"Deszcze mo¿e sobie padaæ|i wiatr wiaæ stale"
+{50317}{50363}"Ale wci¹¿ bêdzie"
+{50368}{50402}"Wiele mil do przejœcia"
+{50407}{50453}"Deszczu ulewnego g³os|jest bardzo mi³y"
+{50458}{50510}"Co strumieniem siê leje|ze wzgórz na równiny"
+{50516}{50559}"Dobry jest deszcz i pluszcz¹cy potok"
+{50564}{50621}"Lecz lepszy kufel piwa,|który trzyma Tuk"
+{50704}{50771}W Shire widziano dziwne stwory...
+{50782}{50874}...Krasnoludy i inni, z mniej bezpiecznych czêœci Œwiata.
+{50886}{50919}Wojna wisi na w³osku.
+{50935}{51004}Góry a¿ siê roj¹ od Goblinów.
+{51009}{51071}Odleg³e opowieœci i bajki dla dzieci,|to wszystko.
+{51076}{51183}Zaczynasz gadaæ jak ten stary Bilbo Baggins.|On by³ stukniêty.
+{51188}{51259}A oto m³ody pan Frodo,|te¿ zaczyna bzikowaæ.
+{51264}{51297}I jestem z tego dumny.
+{51302}{51356}Zdrowie, Gaffer.|Zdrowie.
+{51361}{51459}To nie nasza sprawa,|co dzieje siê poza naszymi granicami.
+{51464}{51567}Trzymaj swój nos z dala od k³opotów,|a nic ciê z³ego nie spotka.
+{51648}{51700}Do widzenia panom.|Do widzenia.
+{51705}{51812}Dobranoc, s³odka panno od z³otego piwa.
+{51817}{51873}Uwa¿aj komu s³odzisz...
+{51878}{51987}Nie martw siê Samie.|Ró¿yczka potrafi rozpoznaæ idiotê po wygl¹dzie.
+{52011}{52040}Naprawdê?
+{52055}{52128}Dobranoc Samie.|Dobranoc, panie Frodo.
+{52721}{52780}Czy jest ukryty?|Czy jest bezpieczny?
+{52994}{53045}Co robisz?
+{53347}{53408}Wystaw rêkê Frodo.
+{53413}{53441}Jest zupe³nie ch³odny.
+{53525}{53568}Co widzisz?
+{53610}{53667}Widzisz coœ?
+{53733}{53766}Nic.
+{53782}{53829}Nic nie ma.
+{53856}{53891}Czekaj...
+{53990}{54043}Isildur...|Jakieœ znaki...
+{54078}{54160}Jakaœ odmiana jêzyka Elfów,|nie potrafiê tego przeczytaæ.
+{54166}{54227}Jest kilku, którzy potrafi¹.
+{54241}{54356}To jêzyk Mordoru, którego|nie chcê tutaj u¿ywaæ.
+{54372}{54396}Mordor!
+{54403}{54451}We Wspólnej Mowie jest napisane:
+{54456}{54540}"Jeden pierœcieñ, by rz¹dziæ wszystkimi...
+{54545}{54601}Jeden, by wszystkie odnaleŸæ...
+{54606}{54659}...Jeden, by wszystkie zgromadziæ...
+{54665}{54738}...i w ciemnoœci zwi¹zaæ."
+{54777}{54826}To jest Jedyny Pierœcieñ...
+{54831}{54957}...Pierœcieñ,|wykuty przez W³adcê Ciemnoœci, Saurona,|w ogniach Góry Przeznaczenia.
+{54962}{55059}Zabrany przez Isildura z rêki samego Saurona.
+{55077}{55139}Bilbo go znalaz³...
+{55149}{55196}w jaskini Golluma.|Tak.
+{55201}{55310}Przez 60 lat Pierœcieñ,|spoczywa³ w spokoju w posiadaniu Bilba...
+{55315}{55396}...wyd³u¿aj¹c mu ¿ycie,|opóŸniaj¹c nadejœcie staroœci...
+{55412}{55517}Ale ju¿ ani chwili d³u¿ej, Frodo.|Z³o obudzi³o siê w Mordorze.
+{55522}{55580}Pierœcieñ siê przebudzi³...
+{55585}{55651}us³ysza³ wo³anie swojego Pana.
+{55656}{55749}Ale on zosta³ zniszczony!|Sauron zosta³ zniszczony!
+{55886}{55936}Nie, Frodo...
+{55959}{56038}duch Saurona przetrwa³.
+{56043}{56171}Jego si³y witalne s¹ powi¹zane z Pierœcieniem,|a Pierœcieñ przetrwa³.
+{56177}{56230}Sauron powróci³.
+{56252}{56302}Jego Orkowie rozmno¿yli siê.
+{56307}{56403}Jego twierdza, Barad-Dur, zosta³a odbudowana|w krainie Mordor.
+{56408}{56523}Sauron potrzebuje tylko tego Pierœcienia,|by okryæ wszystkie krainy druga fal¹ Ciemnoœci.
+{56528}{56577}Poszukuje go...
+{56582}{56675}Ka¿da jego myœl jest na nim skupiona.
+{56680}{56745}Pierœcieñ pragnie ponad wszystko...
+{56750}{56832}...wróciæ do rêki swego Pana.
+{56837}{56879}Oni s¹ jednoœci¹...
+{56884}{56958}Pierœcieñ i W³adca Ciemnoœci.
+{56963}{56988}Frodo...
+{57001}{57046}...on nie mo¿e go nigdy znaleŸæ.
+{57051}{57076}W takim razie... schowamy go!
+{57084}{57187}Zatrzymamy go w ukryciu|i nie bêdziemy nigdy o nim mówiæ.
+{57192}{57256}Nikt nie wie, ¿e on tu jest, prawda?
+{57392}{57421}Prawda, Gandalfie?
+{57446}{57528}Jest jeszcze ktoœ,|kto wie, ¿e Bilbo mia³ Pierœcieñ.
+{57557}{57630}Szuka³em wszêdzie stwora zwanego Gollumem,
+{57635}{57686}...ale wróg odnalaz³ go pierwszy.
+{57728}{57787}Nie wiem, jak d³ugo go torturowali.
+{57792}{57899}Ale pomiêdzy niekoñcz¹cymi siê krzykami|i bulgotaniem wychwycili dwa s³owa:
+{57904}{57955}Shire!
+{57960}{57999}Baggins!
+{58004}{58047}Shire.
+{58052}{58121}Baggins.|Ale to ich doprowadzi tutaj!
+{58187}{58214}Kogo diabli nios¹?
+{58256}{58285}WeŸ go Gandalfie!
+{58293}{58319}WeŸ go!|Nie Frodo.
+{58324}{58381}Musisz go wzi¹æ!|Nie mo¿esz oferowaæ mi tego Pierœcienia.
+{58386}{58466}Dajê ci go!|Nie... kuœ mnie Frodo!
+{58503}{58556}Nie oœmielê siê go wzi¹æ.
+{58564}{58623}Nawet po to, ¿eby go ukryæ.
+{58649}{58698}Zrozum Frodo.
+{58714}{58801}U¿y³bym tego Pierœcienia|z pragnienia czynienia dobra,...
+{58931}{59068}ale przeze mnie zdoby³by on moc tak wielk¹ i strasz¹,|¿e trudno j¹ sobie wyobraziæ.
+{59082}{59152}Ale on nie mo¿e zostaæ w Shire!|Nie!
+{59197}{59236}Nie, nie mo¿e.
+{59364}{59397}Co muszê zrobiæ?
+{59437}{59522}Musisz wyjechaæ. I to szybko.|Dok¹d? Gdzie pojadê?
+{59527}{59605}Z dala od Shire.|Kieruj siê w stronê wioski Bree.
+{59612}{59638}Bree.
+{59643}{59709}A co z tob¹?|Bêdê na ciebie czeka³...
+{59714}{59773}w gospodzie "Pod Rozbrykanym Kucykiem".
+{59778}{59866}Czy Pierœcieñ bêdzie tam bezpieczny?|Nie wiem, Frodo.
+{59872}{59920}Nie mam ¿adnych odpowiedzi.
+{59956}{60089}Muszê zobaczyæ siê z Przewodnicz¹cym mej Rady.|On jest m¹dry i potê¿ny.
+{60094}{60145}On bêdzie wiedzia³ co uczyniæ.
+{60160}{60228}Bêdziesz musia³ porzuciæ nazwisko Baggins.
+{60233}{60292}To nazwisko nie jest bezpieczne poza granicami Shire.
+{60309}{60387}Podró¿uj tylko za dnia.|I trzymaj siê z dala od drogi.
+{60404}{60480}Potrafiê podró¿owaæ przez kraj|dostatecznie ³atwo.
+{60540}{60571}Mój drogi Frodo...
+{60579}{60651}Hobbici s¹ naprawdê niesamowitymi stworzeniami.
+{60656}{60726}Mo¿esz dowiedzieæ siê o nich wszystkiego|w ci¹gu miesi¹ca,
+{60731}{60786}ale nawet po stu latach...
+{60792}{60840}...bêd¹ potrafili ciê czymœ zaskoczyæ.
+{60880}{60911}Na ziemiê!
+{61204}{61287}A niech ciê, Samwise Gamgee!|Pods³uchiwa³eœ?!
+{61293}{61399}Nie pods³uchiwa³em proszê pana, szczerze.|Œcina³em trawê pod oknem.
+{61405}{61462}Czy to aby nie za póŸno|na przycinanie trawnika,|nie s¹dzisz?
+{61468}{61535}Us³ysza³em podniesione g³osy.|Co s³ysza³eœ?! Mów!
+{61540}{61567}Niccc...wa¿nego...
+{61580}{61678}Jakieœ tam rzeczy o Pierœcieniu,...|W³adcy Ciemnoœci i coœ o koñcu œwiata, ale...
+{61683}{61797}proszê, panie Gandalfie, niech mnie pan nie krzywdzi.|Niech mnie pan nie przemienia w jakiegoœ...cudaka.
+{61814}{61853}Nie?
+{61882}{61909}Mo¿e nie...
+{61939}{62021}Pomyœla³em o tym,|aby zrobiæ z ciebie lepszy po¿ytek.
+{62063}{62135}ChodŸ Samwise, ¿wawo.
+{62171}{62224}Uwa¿ajcie oboje,...
+{62231}{62297}wróg ma wielu szpiegów w swojej s³u¿bie.
+{62303}{62373}Ptaki, bestie...
+{62415}{62459}Czy jest bezpieczny?
+{62499}{62532}Nigdy go nie zak³adaj...
+{62537}{62618}...jego moc przyci¹ga s³ugi W³adcy Ciemnoœci.
+{62623}{62659}Zawsze pamiêtaj Frodo...
+{62671}{62747}...Pierœcieñ próbuje wróciæ do swojego Pana.
+{62756}{62807}On pragnie, by go odnaleŸæ.
+{63780}{63833}To tutaj.
+{63841}{63892}Co takiego?
+{63900}{63950}Jeœli postawiê jeszcze krok,...
+{63962}{64055}...znajdê siê tak daleko od domu,|jak jeszcze nigdy dot¹d.
+{64156}{64192}ChodŸ Samie.
+{64395}{64439}Pamiêtasz, co zwyk³ mawiaæ Bilbo?
+{64452}{64542}< "To niebezpieczna rzecz Frodo,|wychodziæ poza w³asny próg." >
+{64547}{64653}< "Wchodzisz na drogê i jeœli|nie powstrzymasz swoich stóp," >
+{64658}{64758}< ... nigdy nie wiadomo, gdzie ciê ponios¹. " >
+{65090}{65134}Samie.
+{65217}{65244}Leœne Elfy.
+{65573}{65658}Udaj¹ siê do przystani za Bia³ymi Wie¿ami...
+{65671}{65713}Grey Havens.
+{65727}{65775}Opuszczaj¹ Œródziemie,...
+{65780}{65833}...aby ju¿ nigdy nie wróciæ.
+{65903}{65953}Nie wiem czemu...
+{65970}{66027}...ale wzbudza to, we mnie smutek.
+{66076}{66188}Wszêdzie, gdzie le¿ê, znajdzie siê brudny,|wielki korzeñ wbijaj¹cy siê w moje plecy.
+{66205}{66246}Po prostu zamknij oczy,...
+{66251}{66317}...i wyobraŸ sobie swoje ³ó¿ko...
+{66322}{66416}z miêkkim materacem i œliczn¹ puchow¹ poduszk¹.
+{66639}{66703}To nie dzia³a, panie Frodo.
+{66708}{66777}Nigdy nie bêdê w stanie tu zasn¹æ.
+{66833}{66890}Ja te¿ nie, Samie.
+{67573}{67645}Dym unosi siê nad Gór¹ Przeznaczenia...
+{67651}{67690}czasu zosta³o coraz mniej.
+{67695}{67781}A Gandalf Szary przybywa do Isengardu,...
+{67786}{67843}szukaj¹c mojej rady.
+{67849}{67943}Po ni¹ przyby³eœ... nieprawda¿?
+{67949}{67979}Mój stary przyjacielu.
+{67987}{68024}Sarumanie...
+{68140}{68211}Jesteœ tego pewien?|Nie mam ¿adnych w¹tpliwoœci.
+{68232}{68285}Wiêc Pierœcieñ W³adzy zosta³ odnaleziony.
+{68291}{68367}Przez te wszystkie, d³ugie lata by³ w Shire.
+{68373}{68449}Pod moim w³asnym nosem.|NajwyraŸniej nie by³eœ na tyle bystry, by to zauwa¿yæ.
+{68463}{68569}Twoje uwielbienie do hobbickiego fajkowego ziela,|najwyraŸniej przyæmi³o ci umys³.
+{68587}{68686}Nadal mamy czas. Wystarczaj¹co|du¿o czasu, by pokonaæ Saurona,|jeœli bêdziemy dzia³aæ szybko.
+{68691}{68727}Czas?
+{68750}{68813}Jaki czas mamy, wed³ug ciebie?
+{68823}{68915}Sauron odzyska³ wiele ze swojej dawnej si³y.
+{68920}{68973}Jeszcze nie mo¿e przybraæ materialnej postaci...
+{68978}{69043}...ale jego duch nie utraci³ nic, ze swej mocy.
+{69059}{69181}Ukryty w swej twierdzy,|W³adca Mordoru widzi wszystko.
+{69194}{69337}Jego wzrok przeszywa chmury, cienie,|wnêtrze ziemi... i cia³o.
+{69373}{69448}Wiesz o czym mówiê, Gandalfie.
+{69470}{69596}Wielkie Oko, bez powiek,|...spowite ogniem.
+{69619}{69662}Oko Saurona...
+{69667}{69729}Gromadzi wokó³ siebie ca³e z³o.....
+{69739}{69785}Ju¿ wkrótce przyzwie armiê...
+{69789}{69856}...wystarczaj¹co wielka,|by napaœæ na Œródziemie.
+{69864}{69921}Wiesz to...?
+{69934}{69970}Sk¹d?
+{69984}{70024}Widzia³em.
+{70034}{70111}Palantir to niebezpieczne narzêdzie, Sarumanie.
+{70128}{70164}Dlaczego?
+{70175}{70240}Dlaczego my mielibyœmy obawiaæ siê u¿ycia go?
+{70303}{70398}Nie do tego zosta³y przeznaczone|Zaginione Kamienie Widzenia.
+{70403}{70480}Nie wiemy, kto jeszcze mo¿e przez nie  patrzeæ.
+{70542}{70607}Jest póŸniej ni¿ myœlisz.
+{70612}{70668}Si³y Saurona ju¿ siê przemieszczaj¹.
+{70722}{70788}Dziewiêciu opuœci³o Minas Morgul.
+{70797}{70822}Dziewiêciu?
+{70827}{70899}Przekroczyli rzekê Isenê w przdedniu przesilenia letniego.
+{70904}{70968}Przybrali postaæ Czarnych JeŸdŸców.
+{70973}{71068}Dotarli do Shire?|Znajd¹ Pierœcieñ...
+{71107}{71160}...i zabij¹ tego, który go nosi.
+{71172}{71208}Frodo!
+{71510}{71616}Nie myœlisz chyba powa¿nie, ¿e Hobbit|móg³by zmagaæ siê z wol¹ Saurona?
+{71634}{71701}Nie ma takiego, który by to potrafi³.
+{71761}{71826}Przeciwko potêdze Mordoru,...
+{71831}{71894}...nie mo¿e byæ zwyciêstwa.
+{71941}{72017}Musimy siê z nim sprzymierzyæ, Gandalfie.
+{72048}{72104}Musimy siê po³¹czyæ z Sauronem.
+{72168}{72232}To bêdzie najm¹drzejsze, mój przyjacielu.
+{72243}{72278}Powiedz mi...
+{72283}{72308}...przyjacielu,
+{72332}{72441}kiedy Saruman M¹dry|porzuci³ rozs¹dek dla szaleñstwa?
+{73388}{73429}Da³em ci szansê...
+{73456}{73519}abyœ przy³¹czy³ siê do mnie dobrowolnie...
+{73524}{73624}ale ty wybra³eœ...|drogê bólu i cierpienia!
+{74183}{74218}Panie Frodo?!
+{74233}{74276}Frodo? Frodo!
+{74310}{74386}Myœla³em, ¿e ciê zgubi³em.|O czym ty mówisz?
+{74392}{74464}Chodzi o to, co Gandalf powiedzia³.|Co powiedzia³?
+{74484}{74576}< "Tylko go nie zgub Samwise Gamgee." >|I nie zamierzam.
+{74583}{74669}Samie, wci¹¿ jeszcze jesteœmy w Shire,|co mog³oby siê wydarzyæ?
+{74741}{74765}Frodo.
+{74772}{74825}Merry, to Frodo Baggins.|Witaj, Frodo.
+{74831}{74864}Z³aŸ z niego!
+{74876}{74910}ChodŸ, Frodo.
+{74916}{74960}Co to ma znaczyæ?
+{74972}{75045}Byliœcie w uprawach Maggota!
+{75074}{75124}Hej, wracajcie!
+{75149}{75179}Wracajcie natychmiast!...|Wynoœcie siê z moich pól!
+{75184}{75252}Ujrzycie samego diab³a,|gdy was dopadnê!
+{75257}{75327}Nie wiem, dlaczego on siê tak wœcieka.|To tylko kilka marchewek.
+{75332}{75358}I kilka kapust.
+{75363}{75433}I te trzy worki ziemniaków,|które wynieœliœmy w zesz³ym tygodniu.
+{75439}{75535}I pieczarki tydzieñ wczeœniej.|Tak Pippin, chodzi mi o to,...
+{75540}{75592}...¿e on najwyraŸniej jest przewra¿liwiony.
+{75597}{75633}Biegnij!
+{75956}{76017}By³o blisko.
+{76043}{76118}Myœlê, ¿e coœ sobie z³ama³em...
+{76142}{76198}Zaufaj Brandybuckowi i Tukowi.
+{76203}{76290}No co?|To by³a tylko droga na prze³aj, skrót.
+{76295}{76349}Skrót do czego?|Pieczarki!
+{76559}{76595}Ta jest moja.
+{76661}{76700}Ta jest niez³a, Merry.
+{76713}{76761}Tu roœnie ca³kiem ³adna, Samie.
+{76766}{76827}Myœlê, ¿e powinniœmy zejœæ z drogi.
+{77047}{77080}ZejdŸcie z drogi!
+{77085}{77121}Szybko!
+{77425}{77461}B¹dŸcie cicho!
+{79051}{79103}Co to by³o?
+{79887}{79923}Widzisz coœ?
+{79939}{79975}Nic.
+{79992}{80047}Co siê dzieje?
+{80060}{80150}Ten Czarny JeŸdziec czegoœ szuka³...|albo kogoœ...
+{80183}{80219}Frodo?
+{80235}{80259}Padnij!
+{80666}{80719}Muszê opuœciæ Shire.
+{80743}{80798}Sam i ja musimy dostaæ siê do Bree.
+{80803}{80838}Dobra.
+{80871}{80924}Do promu Buckleburry, za mn¹.
+{81124}{81155}Biegnij!
+{81185}{81232}Têdy, za mn¹!
+{81319}{81343}Biegnij!
+{81663}{81704}Uwolnij cumê, Samie!
+{81768}{81805}Frodo!
+{81822}{81855}Biegnij Frodo!
+{81864}{81889}Biegnij!|Szybciej!
+{81895}{81957}Pospiesz siê!
+{81980}{82028}Dalej! Szybciej!|Skacz!
+{82386}{82487}Jak daleko do nastêpnej przeprawy?|Most na Brandywinie, 20 mil.
+{82837}{82873}ChodŸcie.
+{83141}{83224}Czego chcecie?|Zmierzamy do gospody "Pod Rozbrykanym Kucykiem".
+{83307}{83375}Hobbici?|Czterej hobbici.
+{83380}{83475}A co wiêcej, z Shire, wnioskuj¹c po akcencie.|Co was sprowadza do Bree?
+{83487}{83561}Chcielibyœmy siê zatrzymaæ w gospodzie.|A dlaczego, to nasza sprawa.
+{83589}{83649}W porz¹dku, paniczu, nie chcia³em pana obraziæ.
+{83654}{83714}Moim obowi¹zkiem jest zadawanie pytañ, po zapadniêciu zmroku.
+{83719}{83787}Krêc¹ siê tu dziwni ludzie na granicy.
+{83792}{83844}Nigdy zbyt wiele ostro¿noœci.
+{84316}{84400}Z drogi!|Uwa¿aj jak chodzisz.
+{84518}{84570}< POD ROZBRYKANYM KUCYKIEM >
+{84976}{85015}Przepraszam...
+{85040}{85106}Dobry wieczór mali panowie,|co mogê dla was zrobiæ?
+{85111}{85257}Jeœli szukacie noclegu,|mam kilka mi³ych, przytulnych pokoików,|zbudowanych specjalnie dla hobbitów.
+{85262}{85374}Zawsze jestem dumny,|kiedy mogê zaspokoiæ potrzeby Ma³ych Ludzi...Panie...
+{85400}{85449}Underhill... Nazywam siê Underhill.
+{85479}{85539}Underhill, tak.|Jesteœmy przyjació³mi Gandalfa Szarego,
+{85544}{85620}Czy mo¿e mu pan powiedzieæ, ¿e przyjechaliœmy?|Gandalf...?
+{85630}{85672}Gandalf.
+{85691}{85732}Aaa, tak...
+{85737}{85787}pamiêtam, starszy goœæ...
+{85795}{85866}d³uga szara broda i spiczasty kapelusz.
+{85875}{85919}Nie widzia³em go od 6 miesiêcy.
+{86082}{86113}Co teraz zrobimy?
+{86286}{86315}Samie...
+{86320}{86365}bêdzie tu, przyjedzie.
+{86431}{86481}Z drogi!
+{86538}{86578}Co to?
+{86583}{86643}To mój przyjacielu...jest du¿e piwo.
+{86648}{86687}Lej¹ tu w pintach?
+{86696}{86785}Idê po jedno.|Przecie¿ masz ju¿ piwo!
+{86937}{87029}Ten goœæ nie spuszcza ciê z oka|odk¹d przybyliœmy.
+{87114}{87150}Przepraszam.
+{87193}{87265}Mê¿czyzna w rogu, kto to jest?
+{87293}{87398}On jest jednym ze Stra¿ników.|S¹ niebezpieczni, w³ócz¹ siê po dzikich krajach.
+{87405}{87513}Nie znam jego prawdziwego imienia,|ale w okolicy...znany jest jako Obie¿yœwiat.
+{87570}{87598}Obie¿yœwiat.
+{87912}{87988}< Baggins. >
+{88072}{88109}< Baggins. >
+{88405}{88458}Baggins? Jasne, ¿e znam Bagginsa.
+{88478}{88546}Jest tam!|Frodo Baggins.
+{88551}{88623}On jest pierwszym synem drugiego kuzyna|od strony jego matki...
+{88629}{88682}i moim kuzynem w trzecim stopniu pokrewieñstwa.
+{88791}{88834}Pippin!|Spokojnie Frodo!
+{89541}{89600}< Nie ukryjesz siê... >
+{89671}{89746}< Widzê ciê. >
+{89787}{89851}< Nie ma ¿ycia... >
+{89856}{89908}< ...w pustce. >
+{89913}{89949}< Tylko... >
+{89971}{90007}< ...œmieræ. >
+{90151}{90268}Œci¹gasz na siebie zbyt wiele uwagi,|panie Underhill.
+{90379}{90404}Czego chcesz?
+{90409}{90458}Nieco wiêcej ostro¿noœci z twojej strony.|To nie b³yskotka, co nosisz.
+{90468}{90540}Nic nie niosê.|W rzeczy samej.
+{90547}{90607}Mogê pozostaæ niezauwa¿ony, jeœli tego chcê,...
+{90612}{90701}ale znikn¹æ ca³kowicie? To rzadki dar.
+{90713}{90776}Kim jesteœ?|Boisz siê?
+{90804}{90829}Tak.
+{90834}{90928}NajwyraŸniej, niewystarczaj¹co.|Wiem, co ciê œciga.
+{91024}{91085}Puœæ go!|Albo bêdziesz mia³ ze mn¹ do czynienia!
+{91125}{91223}Macie niez³omne serca jak na Hobbita.|Ale to, was nie ocali.
+{91228}{91298}Nie mo¿esz d³u¿ej czekaæ na czarodzieja, Frodo.
+{91303}{91329}Oni nadchodz¹.
+{93333}{93369}Kim oni s¹?
+{93421}{93472}Kiedyœ byli ludŸmi,...
+{93477}{93530}wielkimi królami poœród ludŸmi.
+{93542}{93618}Potem Sauron Podstêpny|da³ im dziewiêæ Pierœcieni W³adzy.
+{93632}{93707}Zaœlepieni chciwoœci¹ wziêli je bez pytania.
+{93712}{93791}Jeden za drugim stoczyli siê w ciemnoœæ.
+{93796}{93856}Teraz s¹ s³ugami jego woli.
+{93913}{93954}To Nazgule,
+{93959}{94024}Upiory Pierœcienia.|Ani ¿ywi, ani umarli.
+{94042}{94076}Nieustannie wyczuwaj¹...
+{94081}{94127}...obecnoœæ Pierœcienia...
+{94132}{94241}...przyci¹gani przez moc Jedynego.|Nigdy nie przestan¹ ciê œcigaæ.
+{94480}{94551}Gdzie nas zabierasz?|W ostêpy.
+{94747}{94844}Sk¹d mamy mieæ pewnoœæ, ¿e ten|Obie¿yœwiat, to przyjaciel Gandalfa?
+{94849}{94917}Myœlê, ¿e s³uga nieprzyjaciela|wygl¹da³by straszniej...
+{94926}{95020}...by³by groŸniejszy.|On jest wystarczaj¹co groŸny!
+{95034}{95102}Nie mamy innego wyboru, jak mu zaufaæ.
+{95107}{95189}Ale dok¹d on nas prowadzi?|Do Rivendell, panie Gamgee.
+{95246}{95324}Do domu Elronda.|S³ysza³eœ to? Rivendell.
+{95339}{95405}Zobaczymy Elfy.
+{95924}{96024}Panowie. Nie zatrzymujemy siê, a¿ do zapadniêcia nocy.|A co ze œniadaniem?
+{96030}{96093}Ju¿ by³o.|Pierwsze, tak...
+{96098}{96151}ale co z drugim œniadaniem?
+{96233}{96309}Nie s¹dzê,|¿e on wie coœ o drugim œniadaniu, Pip.
+{96314}{96439}A co ze œniadaniem o 11:00, uroczystym lunchem,|popo³udniow¹ herbatk¹? Obiadem, kolacj¹?
+{96444}{96544}O tych wie, prawda?|Nie liczy³bym na to.
+{96675}{96714}Pippin!
+{97110}{97193}Ciekawe co one jedz¹,|kiedy nie ma w pobli¿u Hobbitów?
+{98124}{98177}Kim ona jest?
+{98194}{98256}Ta kobieta,|o której œpiewa³eœ?
+{98338}{98395}To jest Ballada o Luthien,
+{98400}{98524}Elfiej pannie,|która odda³a swoj¹ mi³oœæ Berenowi, œmiertelnikowi.
+{98568}{98619}Co siê z ni¹ sta³o?
+{98672}{98732}Umar³a.
+{98829}{98885}Przeœpij siê trochê, Frodo.
+{99131}{99229}Potêga Isengardu jest do twojej dyspozycji...
+{99234}{99340}Sauronie - W³adco Ziemi.
+{99420}{99559}Zbuduj dla mnie armiê...|wart¹ Mordoru...
+{99693}{99800}Jakie s¹ rozkazy z Mordoru, mój panie?|Co nakaza³o Oko?
+{99811}{99857}Mamy pracê do wykonania.
+{100878}{100990}Drzewa s¹ silne, mój panie.|Ich korzenie siêgaj¹ g³êboko.
+{100998}{101043}Wyrwaæ je wszystkie.
+{101700}{101770}Oto ruiny potê¿nej wie¿y stra¿niczej, Amon Sul.
+{101811}{101873}Tu odpoczniemy tej nocy.
+{102154}{102236}Te s¹ dla was..|Trzymajcie je blisko.
+{102242}{102301}Ja idê trochê rozejrzeæ siê.
+{102358}{102403}Zostañcie tutaj.
+{102465}{102516}Mój pomidor siê przypali³.
+{102522}{102567}Mogê prosiæ o bekon?
+{102573}{102619}Chcesz pomidora, Sam?
+{102629}{102716}Co wy robicie?!|Pomidory, kie³baski i pyszny, chrupi¹cy bekon.
+{102722}{102786}Zostawiliœmy trochê dla pana, panie Frodo.|Zgaœcie to, g³upcy!
+{102791}{102886}Zgaœcie!|No piêknie! Popió³ w moich pomidorach!
+{103089}{103130}Uciekajcie!
+{104413}{104447}Cofnijcie siê diab³y!
+{106449}{106478}Frodo!
+{106592}{106621}O, Samie.
+{107508}{107533}Obie¿yœwiacie!
+{107599}{107731}Pomó¿ mu, Obie¿yœwiacie!|Zosta³ pchniêty mieczem Morgula.
+{107766}{107884}To przekracza moje mo¿liwoœci.|On potrzebuje opieki Elfów.
+{107994}{108019}Pospieszcie siê!
+{108024}{108118}Jesteœmy 6 dni od Rivendell! On nie da rady!
+{108124}{108169}Wytrzymaj Frodo.
+{108181}{108230}Gandalf!
+{109620}{109700}ZnajdŸ or³a Gwaihira ... Pospiesz siê!
+{112019}{112092}Patrz Frodo,|to trolle pana Bilba.
+{112144}{112213}Panie Frodo?|On ziêbnie!
+{112282}{112324}Czy, on umrze?
+{112329}{112446}Przechodzi do Œwiata Cieni.|Wkrótce stanie siê upiorem, jak oni.
+{112570}{112661}S¹ blisko.|Samie, czy znasz roœlinê Athelas?
+{112666}{112701}Athelas?|Królewskie ziele.
+{112706}{112731}Królewskie ziele, ten chwast?
+{112736}{112813}To mo¿e pomóc spowolniæ truciznê,|pospiesz siê.
+{113157}{113257}A có¿ to?|Stra¿nik przy³apany na nieuwadze?
+{113853}{113878}Frodo...
+{113925}{114000}< "Im Arwen. Telin le thaed" >|Jestem Arwena, przychodzê by ci pomóc.
+{114058}{114102}< "Lasto beth nin" >|S³uchaj mojego g³osu...
+{114108}{114159}< "Tolo dan na ngalad" >|wróæ w stronê Œwiat³a.
+{114281}{114326}Kim ona jest?
+{114341}{114384}Frodo.
+{114391}{114475}Jest Elfem.|On usycha...
+{114530}{114582}Nie przetrwa.
+{114587}{114651}Musimy go zabraæ do mojego ojca.
+{114668}{114737}Szukam was od dwóch dni.|Dok¹d go zabierasz?
+{114742}{114889}Piêæ Upiorów jest tu¿ za wami.|Gdzie s¹ pozostali czterej, nie wiem.
+{114915}{114973}< "Dartho guin berian. Rych le ad tolthathon" >|Zostañ z hobbitami, wyœlê po was konie.
+{114978}{115018}< "Hon mabathon. Rochon ellint im" >|Jestem szybszym jeŸdŸcem, ja go zabiorê.
+{115038}{115071}< "Andelu i ven" >|Droga jest zbyt niebezpieczna.
+{115076}{115104}Co oni mówi¹?
+{115111}{115160}< "Frodo fir. Ae athradon i hir" >|Frodo umiera. Jeœli uda mi siê przekroczyæ rzekê...
+{115165}{115226}< "Tur gwaith nin beriatha hon" >|moc mojego ludu go ochroni.
+{115251}{115289}Nie bojê siê ich.
+{115399}{115460}"Beyest lin"
+{115526}{115559}Arweno...
+{115564}{115640}JedŸ ostro, nie ogl¹daj siê za siebie.
+{115640}{115700}< "Noro lim, Asfaloth! Noro lim!" >|PêdŸ szybko, Asfaloth! PêdŸ szybko!
+{115762}{115865}Co ty robisz?|Ci jeŸdŸcy wci¹¿ tam s¹!
+{117574}{117630}< "Noro lim, Asfaloth!" >|PêdŸ szybko, Asfaloth!
+{118614}{118679}Oddaj nam nizio³ka, kobieto-Elfie!
+{118702}{118763}Jeœli go chcecie, to go sobie weŸcie!
+{119075}{119103}< "Nin o Chithaeglir. Lasto beth daer:" >|Wody z Gór Mglistych. S³uchajcie wielkiego s³owa:
+{119134}{119215}< "Rimmo nin Bruinen. Dan in Ulaer." >|P³yñcie wody Grzmi¹cej Rzeki. Naprzeciw Upiorom Pierœcienia!
+{119199}{119248}< "Nin o Chithaeglir. Lasto beth daer:" >|Wody z Gór Mglistych. S³uchajcie wielkiego s³owa:
+{119281}{119322}< "Rimmo nin Bruinen. Dan in Ulaer." >|P³yñcie wody Grzmi¹cej Rzeki. Naprzeciw Upiorom Pierœcienia!
+{120055}{120115}Nie, nie.
+{120194}{120248}Frodo, nie!
+{120253}{120308}Frodo, nie poddawaj siê!
+{120313}{120361}Nie teraz.
+{120623}{120683}"Niech ³aska, która zosta³a mi dana,"
+{120699}{120743}"...spocznie na nim."
+{120748}{120800}"Niech bêdzie oszczêdzony."
+{120815}{120864}"Ocal go."
+{120925}{120985}"Pos³uchaj mojego g³osu:"
+{120992}{121050}"Powróæ ze snu do Œwiat³a!"
+{121162}{121286}Gdzie ja jestem?|Jesteœ w domu Elronda.
+{121296}{121452}Jest 10:00 rano, 24 paŸdziernika,|jeœli chcesz wiedzieæ.
+{121499}{121589}Gandalf!|Tak, jestem tutaj.
+{121630}{121703}Ty te¿ masz szczêœcie, ¿e tu jesteœ.
+{121719}{121815}Jeszcze kilka godzin|i nie mo¿na by³oby ci pomóc.
+{121820}{121919}Drzemi¹ w tobie niesamowite si³y,|mój drogi Hobbicie.
+{122102}{122161}Co siê sta³o, Gandalfie?
+{122184}{122314}Dlaczego nie spotka³eœ siê z nami?|Przepraszam, Frodo...
+{122427}{122469}Mia³em opóŸnienie.
+{122490}{122591}Nie mo¿na bezkarnie odrzucaæ przyjaŸni Sarumana...
+{122692}{122803}Jedno z³o zas³uguje na drugie...|To koniec.
+{122811}{122875}Uznaj w³adzê Pierœcienia,...
+{122890}{122950}albo poddaj siê w³asnej pora¿ce!
+{123006}{123098}Jest tylko jeden W³adca Pierœcienia,...
+{123104}{123199}tylko jeden, który mo¿e go zwi¹zaæ ze sw¹ wol¹.
+{123221}{123314}A on, nie dzieli siê moc¹.
+{123658}{123738}Wiêc wybra³eœ...œmieræ.
+{123980}{124071}Gandalfie?|Co siê sta³o?
+{124094}{124137}Nic, Frodo.
+{124153}{124199}Frodo!
+{124232}{124289}Sam!|Co za szczêœcie, ¿e siê pan obudzi³!
+{124294}{124360}Sam, prawie nie opuszcza³ twego boku.
+{124365}{124417}Tak martwiliœmy siê o pana.|Prawda, panie Gandalfie?
+{124426}{124549}To zas³uga umiejêtnoœci starego Elronda,|którego zaraz poznasz.
+{124585}{124671}Witaj w Rivendell, Frodo Baggins.
+{125824}{125902}Bilbo!|Witaj Frodo, mój m³odzieñcze.
+{125907}{125948}Bilbo.
+{126065}{126110}< "Tam i z powrotem" >
+{126115}{126182}< "Opowieœæ o Hobbitach, spisana przez Bilbo Bagginsa" >
+{126256}{126341}To jest cudowne.|Mia³em zamiar wróciæ...
+{126349}{126440}...podziwiaæ cuda Mirkwood...
+{126450}{126506}...odwiedziæ Miasto nad Jeziorem.
+{126511}{126593}...zobaczyæ Samotn¹ Górê raz jeszcze...
+{126603}{126721}Ale, zdaje siê, ¿e moje lata|wreszcie da³y mi znaæ o sobie.
+{127012}{127054}Têskniê za Shire.
+{127064}{127188}Spêdzi³em ca³e dzieciñstwo udaj¹c,|¿e jestem gdzieœ indziej...
+{127194}{127281}Razem z tob¹,|w jednej z twoich przygód.
+{127351}{127438}Ale moja w³asna przygoda zmierza|w zupe³nie innym kierunku.
+{127563}{127640}Nie jestem taki jak ty, Bilbo.
+{127668}{127722}Mój drogi ch³opcze...
+{127821}{127916}O czym to ja zapomnia³em?|Ju¿ spakowany?
+{127935}{127978}Nic w tym z³ego,|¿e chcia³em byæ przygotowany.
+{127983}{128044}Myœla³em, ¿e chcia³eœ zobaczyæ Elfy, Samie?|To prawda...
+{128049}{128118}Bardziej ni¿ cokolwiek innego.|Chcia³em...
+{128123}{128169}Tylko, ¿e...
+{128188}{128250}Zrobiliœmy co Gandalf nam poleci³, prawda?
+{128255}{128343}Przynieœliœmy Pierœcieñ tak daleko,|do Rivendell i pomyœla³em...
+{128348}{128427}kiedy zobaczy³em pana wyleczonego,|¿e wyjedziemy...
+{128432}{128473}do domu...
+{128573}{128621}Masz racjê, Samie.
+{128673}{128739}Zrobiliœmy to, co nam powierzono.
+{128753}{128814}Pierœcieñ bêdzie bezpieczny w Rivendell.
+{128913}{128968}Ja jestem gotowy, ¿eby wróciæ do domu.
+{128987}{129036}Si³y do niego wracaj¹.
+{129041}{129178}Ta rana nigdy nie bêdzie do koñca wyleczona.|Bêdzie nosi³, to brzemiê przez resztê swego ¿ycia.
+{129192}{129251}A mimo to, dotar³ tak daleko nios¹c Pierœcieñ...
+{129257}{129345}Ten hobbit okaza³ niesamowit¹|odpornoœæ na jego z³o.
+{129351}{129431}To ciê¿ar,|którego nigdy nie powinien by³ dŸwigaæ.
+{129437}{129567}Nie mo¿emy prosiæ Froda o wiêcej.|Gandalfie... nieprzyjaciel przemieszcza siê.
+{129572}{129683}Si³y Saurona koncentruj¹ siê na Wschodzie.|Jego Oko jest zwrócone na Rivendell!
+{129689}{129755}A Saruman, jak powiedzia³eœ, zdradzi³ nas.
+{129760}{129836}Zastêpy naszych sprzymierzeñców kurcz¹ siê.
+{129855}{129921}Jego zdrada jest g³êbsza, ni¿ ci siê wydaje.
+{129927}{130013}Ten plugawiec, Saruman, skrzy¿owa³ Orków|z Goblinami.
+{130019}{130077}Pomna¿a armiê w lochach Isengardu.
+{130085}{130194}Armiê, która mo¿e siê poruszaæ za dnia|i pokonywaæ wielkie odleg³oœci z niezwyk³¹ prêdkoœci¹.
+{130200}{130256}Saruman nadchodzi po Pierœcieñ.
+{130267}{130364}To z³o, nie mo¿e byæ chronione moc¹ Elfów.
+{130370}{130474}Nie mamy tyle si³,|by walczyæ jednoczeœnie z Mordorem i Isengardem.
+{130566}{130592}Gandalfie...
+{130624}{130685}Pierœcieñ nie mo¿e tu zostaæ.
+{131153}{131231}To niebezpieczeñstwo|spoczywa na ca³ym Œródziemiu.
+{131236}{131301}Oni musz¹ teraz zdecydowaæ,|jak to zakoñczyæ.
+{131327}{131412}Czas Elfów siê koñczy.|Moi ludzie opuszczaj¹ Brzegi.
+{131428}{131514}Do kogo siê zwrócisz, kiedy odejdziemy?|Do Krasnoludów?
+{131519}{131641}Ukrywaj¹ siê w górach szukaj¹c bogactw.|Nie obchodz¹ ich problemy innych ludów.
+{131680}{131748}W ludziach musimy pok³adaæ|ca³¹ nasz¹ nadziejê.
+{131756}{131797}Ludziach?
+{131818}{131895}Ludzie s¹ s³abi.|Rasa ludzi upada.
+{131900}{132006}Krew Numenoru, jest niczym innym jak tylko wspomnieniem.|Duma i godnoœæ zosta³y zapomniane.
+{132015}{132098}To przez ludzi Pierœcieñ przetrwa³.
+{132103}{132142}By³em tam, Gandalfie.
+{132158}{132226}By³em tam, 3000 lat temu...
+{132389}{132447}...gdy Isildur zabra³ Pierœcieñ.
+{132452}{132545}By³em tam w dniu,|kiedy si³a ludzi zawiod³a.
+{132606}{132668}Isildurze, pospiesz siê.|ChodŸ za mn¹.
+{132706}{132793}Zaprowadzi³em Isildura do do serca Orodruiny...
+{132798}{132883}...gdzie zosta³ wykuty Pierœcieñ.|Jedyne miejsce, gdzie mo¿e byæ zniszczony.
+{132888}{132950}Wrzuæ go do ognia!
+{133073}{133165}Zniszcz go!|Nie...
+{133197}{133249}Isildur!
+{133260}{133373}Powinienem by³ zakoñczyæ to, tamtego dnia.|Ale pozwoli³em z³u przetrwaæ.
+{133472}{133574}Isildur zatrzyma³ Pierœcieñ.|Linia królów zosta³a przerwana.
+{133596}{133683}Nie ma ju¿ si³y w œwiecie ludzi.
+{133688}{133804}Rozproszyli siê, podzielili, s¹ bez przywódcy.|Jest jeden, który mo¿e ich zjednoczyæ.
+{133809}{133889}Ktoœ, kto mo¿e wyst¹piæ o tron Gondoru.
+{133931}{134021}Zszed³ z tej œcie¿ki dawno temu.
+{134026}{134077}Wybra³ wygnanie.
+{134821}{134869}Nie jesteœ Elfem.
+{134874}{134924}Ludzie z Po³udnia s¹ tutaj mile widziani.
+{134940}{135024}Kim jesteœ?|Jestem przyjacielem Gandalfa Szarego.
+{135059}{135126}Jesteœmy tu z tego samego powodu,...
+{135136}{135170}...przyjacielu.
+{135535}{135605}Szcz¹tki Narsila!
+{135689}{135796}Ostrze, które odciê³o Pierœcieñ|z rêki Saurona.
+{135865}{135918}Nadal ostre...
+{136133}{136206}...teraz jest niczym wiêcej, jak po³aman¹ relikwi¹...
+{136849}{136921}Dlaczego boisz siê przesz³oœci?
+{136943}{137071}Jesteœ spadkobierc¹ Isildura,|a nie samym Isildurem.
+{137077}{137158}Nie jesteœ zwi¹zany jego kl¹tw¹.
+{137172}{137266}Ta sama krew p³ynie w moich ¿y³ach.
+{137340}{137400}Ta sama s³aboœæ.
+{137465}{137531}Twój czas nadejdzie.
+{137536}{137642}Zmierzysz siê z tym samym z³em,|I pokonasz je...
+{137719}{137777}< "A si i-dhúath ú-orthor, Aragorn" >|Cieñ jeszcze Tob¹ nie rz¹dzi, Aragornie.
+{137801}{137887}< "Ú or le a ú or nin" >|Ani tob¹, ani mn¹.
+{138160}{138237}< "Renech i lu i erui govannem?" >|Pamiêtasz, kiedy siê po raz pierwszy spotkaliœmy?
+{138322}{138431}< "Nauthannem i ned ol reniannen." >|Myœla³em, ¿e b³¹dzê w snach.
+{138444}{138504}< "Gwenwin in enninath..." >|Wiele lat up³ynê³o.
+{138545}{138626}< "U-arnech in naeth i si celich." >|Nie mia³eœ tych zmartwieñ, które nosisz teraz.
+{138661}{138710}< "Renech i beth i pennen?" >|Pamiêtasz, co ci powiedzia³am?
+{138853}{138918}Powiedzia³aœ, ¿e zwi¹¿esz siê ze mn¹...
+{138967}{139086}wyrzekaj¹c siê nieœmiertelnoœci swego ludu.
+{139112}{139159}I podtrzymujê t¹ obietnicê...
+{139164}{139251}Wola³abym raczej dzieliæ jedno ¿ycie z tob¹,
+{139256}{139348}ni¿ samotnie stawiæ czo³a wszystkim wiekom tego œwiata.
+{139559}{139642}Wybieram œmiertelne ¿ycie...
+{139674}{139776}Nie mo¿esz mi tego daæ.|To zale¿y ode mnie, komu oddam swoj¹ wolê...
+{139853}{139914}Tak jak i moje serce.
+{140293}{140381}Przybysze z odleg³ych krain...|Starzy przyjaciele....
+{140386}{140481}Zostaliœcie tu wezwani,|by odpowiedzieæ na groŸbê Mordoru.
+{140496}{140613}Œródziemie stoi na krawêdzi zniszczenia.|Nikt nie mo¿e od tego uciec.
+{140618}{140703}Zjednoczycie siê,|albo upadniecie.
+{140708}{140810}Ka¿d¹ z ras czeka ten sam los,|to samo przeznaczenie.
+{140855}{140939}Przynieœ Pierœcieñ, Frodo.
+{141276}{141317}Wiêc to prawda...
+{141736}{141786}Mia³em sen...
+{141825}{141902}Widzia³em, jak niebo na Wschodzie ciemnieje...
+{141909}{141950}ale na Zachodzie utrzymywa³o siê blade œwiat³o...
+{141969}{142012}Unosi³ siê g³os:
+{142018}{142088}"Twoja zguba jest w zasiêgu rêki."
+{142112}{142178}Kl¹twa Isuldura zosta³a odnaleziona...
+{142275}{142318}Kl¹twa Isildura.
+{142332}{142362}Boromirze!!!
+{142382}{142430}Ash nazg durbatuluk...
+{142468}{142520}ash nazg gimbatul...
+{142562}{142620}Ash nazg thrakatuluk agh burzum...
+{142711}{142780}...Ishi krimpatul.
+{142918}{143008}Nigdy wczeœniej nikt nie wypowiedzia³|s³ów w tym jêzyku w Imladris.
+{143014}{143102}Nie ¿¹daj ode mnie usprawiedliwienia,|mistrzu Elrondzie.
+{143108}{143159}Czarny jêzyk Mordoru,
+{143165}{143198}...bêdzie mo¿na nied³ugo us³yszeæ...
+{143203}{143273}...z ka¿dego zak¹tka Zachodu!
+{143278}{143343}Pierœcieñ jest ucieleœnieniem Z³a!
+{143350}{143387}To dar.
+{143401}{143450}Dar dla wrogów Mordoru.
+{143465}{143516}Dlaczego by nie u¿yæ tego Pierœcienia?
+{143521}{143587}Przez wiele lat mój ojciec, Namiestnik Gondoru,
+{143592}{143695}...utrzymywa³ z dala si³y Mordoru.|Krwi¹ naszych ludzi!
+{143702}{143755}Po to, by wasze kraje by³y bezpieczne!
+{143798}{143902}Daj Gondorowi broñ naszego wroga.|U¿yjmy go przeciwko niemu!
+{143908}{143997}Nie mo¿esz nim w³adaæ!|Nikt z nas nie mo¿e.
+{144012}{144109}Jedyny Pierœcieñ pos³uszny jest tylko Sauronowi.|Nie ma innego pana.
+{144115}{144199}A co Stra¿nik mo¿e o tym wiedzieæ?
+{144207}{144254}To nie jest zwyk³y Stra¿nik.
+{144278}{144365}To jest Aragorn, syn Arathorna.
+{144378}{144447}Jesteœ mu winien swoj¹ lojalnoœæ.
+{144546}{144591}Aragorn.
+{144634}{144701}To jest spadkobierca Isildura?
+{144757}{144823}I spadkobierca tronu w Gondorze.
+{144874}{144909}< "Havo dad, Legolas." >|Usi¹dŸ, Legolasie.
+{144988}{145056}Gondor nie ma króla.
+{145101}{145142}Gondor nie potrzebuje króla.
+{145302}{145390}Aragorn ma racjê.|Nie mo¿emy Go u¿yæ.
+{145414}{145498}Mamy tylko jeden wybór.
+{145503}{145559}Pierœcieñ musi byæ zniszczony.
+{145685}{145747}Wiêc, na co czekamy?
+{146037}{146110}Pierœcieñ nie mo¿e byæ zniszczony,|Gimli, synu Gloina,
+{146115}{146216}przez ¿adn¹ broñ,|jak¹ tu posiadamy.
+{146229}{146328}Pierœcieñ zosta³ wykuty w ogniach Góry Przeznaczenia...
+{146333}{146425}tylko tam mo¿na go unicestwiæ.
+{146451}{146513}Musi byæ zaniesiony w serce Mordoru...
+{146518}{146637}...i wrzucony do ognistej czeluœci - tam, sk¹d pochodzi.
+{146685}{146733}Jeden z was...
+{146745}{146797}...musi tego dokonaæ.
+{146867}{146956}Nie jest to ³atwa rzecz, wejœæ do Mordoru.
+{146978}{147065}Czarne Wrota s¹ strze¿one|nie tylko przez samych Orków.
+{147085}{147184}Tam mieszka z³o, które nie œpi.
+{147189}{147291}Wielkie Oko jest zawsze czujne...
+{147309}{147358}To ja³owe pustkowie...
+{147363}{147449}przesi¹kniête ogniem, popio³em i py³em.
+{147454}{147546}Powietrze, którym siê oddycha,|to truj¹ce opary.
+{147551}{147654}Nawet z 10.000 ludzi nie móg³byœ tego zrobiæ.|To szaleñstwo.
+{147659}{147766}Czy nie s³ysza³eœ nic z tego, co powiedzia³ Pan Elrond?|Pierœcieñ musi zostaæ zniszczony.
+{147771}{147833}I pewnie uwa¿asz, ¿e ty jesteœ tym,|który potrafi tego dokonaæ!?
+{147838}{147950}A jeœli zawiedziemy, co wtedy?|Co siê stanie, kiedy Sauron odzyska sw¹ w³asnoœæ?
+{147955}{148081}Prêdzej umrê, ni¿ zobaczê Pierœcieñ w rêkach Elfa!
+{148129}{148189}Nigdy nie ufaj Elfowi!
+{148217}{148357}Czy nie rozumiecie?|Gdy wy spieracie siê ze sob¹, Sauron roœnie w si³ê!
+{148365}{148434}Nie ma ucieczki!|Wszyscy bêdziecie zniszczeni!
+{148493}{148560}< Ash nazg durbatuluuk, ash nazg gimbatul >
+{148595}{148650}< Ash nazg durbatuluuk, ash nazg gimbatul >
+{148698}{148760}< Ash nazg durbatuluuk, ash nazg gimbatul >
+{148810}{148875}< Ash nazg thrakatuluk... >
+{148884}{148938}Ja go wezmê!
+{148985}{149046}Ja go wezmê.
+{149185}{149259}Ja zaniosê Pierœcieñ do Mordoru.
+{149453}{149483}Chocia¿...
+{149558}{149601}nie znam drogi.
+{149650}{149753}Ja pomogê ci nieœæ to brzemiê,|Frodo Baggins.
+{149758}{149839}Tak d³ugo, jak zamierzasz je nieœæ.
+{149866}{149938}Na moje ¿ycie lub œmieræ,|jeœli mogê ciê ochraniaæ...
+{149957}{149989}I bêdê...
+{150067}{150122}Mo¿esz liczyæ na mój miecz.
+{150165}{150214}I mój ³uk!
+{150229}{150288}I mój topór!
+{150457}{150529}Niesiesz w swych rêkach los nas wszystkich, mój ma³y.
+{150577}{150664}A to jest w istocie, wola Wielkiej Rady...
+{150676}{150734}I Gondor siê do³¹cza.
+{150797}{150910}Pan Frodo nigdzie nie idzie beze mnie.|To prawie niemo¿liwe, by was rozdzieliæ...
+{150916}{151032}Nawet tajna narada, na któr¹ nie zosta³eœ zaproszony.
+{151047}{151092}My te¿ idziemy!
+{151141}{151207}Musielibyœcie odes³aæ nas zwi¹zanych w workach,|aby nas powstrzymaæ!
+{151212}{151293}Tak czy inaczej, potrzebujecie inteligentnych ludzi...
+{151302}{151332}...do swojej misji...
+{151338}{151372}zadania...
+{151384}{151408}...wyprawy.
+{151453}{151518}W takim razie, to ciebie wyklucza, Pip.
+{151555}{151601}Dziewiêciu towarzyszy.
+{151644}{151688}Niech tak bêdzie.
+{151696}{151769}Bêdziecie Dru¿yn¹ Pierœcienia.
+{151784}{151828}Œwietnie!
+{151834}{151888}A dok¹d idziemy?
+{152770}{152832}< "Anirne hene beriad i chen în" >|Ona chcia³a chroniæ swoje dziecko...
+{152876}{152966}< "Ned Imladris nauthant e le beriathar aen" >|Myœla³a, ¿e w Rivendell bêdziesz bezpieczny...
+{153018}{153102}Ale w sercu matka czu³a,|¿e bêdziesz przeœladowany ca³e ¿ycie,...
+{153114}{153154}¿e nigdy nie uciekniesz przed przeznaczeniem.
+{153168}{153254}Rzemios³o elfów pozwoli przekuæ Miecz Króla...
+{153264}{153358}...ale tylko ty masz si³ê, by go dŸwigaæ!
+{153384}{153442}Nie chcê tej w³adzy...
+{153446}{153512}Nigdy jej nie chcia³em.
+{153542}{153604}Jesteœ ostatnim z rodu,|nie ma nikogo innego.
+{153714}{153770}Mój stary miecz - ¯¹de³ko.
+{153774}{153802}Masz, weŸ go, weŸ.
+{153934}{154028}Jest taki lekki.|Tak... dzie³o elfich kowali, wiedzia³eœ?
+{154044}{154144}Ostrze rozjarza siê b³êkitem,|kiedy Orkowie s¹ w pobli¿u.
+{154150}{154260}A na czasy, takie jak te mój drogi,|kiedy musisz byæ wyj¹tkowo ostro¿ny...
+{154264}{154324}Mam tu coœ jeszcze.
+{154334}{154364}Mithril.
+{154384}{154488}Lekka jak piórko,|a tak twarda jak smocza ³uska.
+{154494}{154572}Poka¿ mi, jak bêdzie na tobie wygl¹daæ.|No dalej.
+{154764}{154814}Mój stary Pierœcieñ...
+{154844}{154938}...powinienem... chcia³bym bardzo...
+{154942}{155040}...potrzymaæ go jeszcze jeden raz, ostatni raz.
+{155456}{155542}Przepraszam, ¿e œci¹gn¹³em to na ciebie,|mój ch³opcze.
+{155552}{155648}Wybacz, ¿e na ciebie spad³o to brzemiê.
+{155758}{155830}Przepraszam, za wszystko.
+{156186}{156290}Powiernik Pierœcienia wyrusza na wyprawê do Góry Przeznaczenia.
+{156322}{156386}Na was, którzy z nim wyruszacie,|nie ci¹¿y ¿adna przysiêga...
+{156390}{156466}...ani ¿adne zobowi¹zanie, by iœæ dalej,|ni¿ bêdziecie chcieli.
+{156548}{156608}¯egnajcie... Trzymajcie siê waszego celu...
+{156620}{156714}I niech b³ogos³awieñstwo Elfów i ludzi...
+{156726}{156790}...i wszystkich wolnych ludów bêdzie z wami.
+{156862}{156962}Dru¿yna czeka na Powiernika Pierœcienia.
+{157402}{157462}Gandalfie... Mordor...|To w lewo, czy w prawo?
+{157476}{157520}W lewo.
+{159428}{159534}Musimy trzymaæ siê zachodniego skraju|Gór Mglistych przez 40 dni.
+{159540}{159630}Jeœli szczêœcie nas nie opuœci,|Wrota Rohanu nadal bêd¹ dla nas otwarte.
+{159634}{159720}Stamt¹d nasza droga skrêci na wschód, do Mordoru.
+{159724}{159816}...dwa, jeden, piêæ!|Dobrze! Bardzo dobrze!
+{159860}{159884}Poruszaj stopami.
+{159890}{159922}NieŸle, Pippin!|Dziêki!
+{159926}{159960}Szybciej.
+{159992}{160084}Gdyby ktoœ zechcia³ spytaæ mnie o zdanie,|czego do tej pory nie zauwa¿y³em,...
+{160088}{160154}...powiedzia³bym, ¿e obraliœmy d³u¿sz¹, okrê¿n¹ drogê.
+{160166}{160240}Gandalfie,|moglibyœmy przejœæ przez Kopalnie Morii.
+{160256}{160348}Mój kuzyn Balin,|zgotowa³by nam królewskie powitanie.
+{160354}{160482}Nie Gimli...|Nie wybiorê drogi przez Moriê,|chyba ¿e nie bêdê mia³ innego wyboru.
+{160704}{160732}Przepraszam!
+{160748}{160784}Bierz go!
+{160820}{160878}Za Shire!|Trzymaj go. Trzymaj go przy ziemi, Merry!
+{160892}{160948}Wystarczy panowie!
+{161038}{161078}Masz moje ramiê!|Masz moje ramiê!
+{161088}{161150}Co to jest?|Nic, strzêp ob³oku.
+{161156}{161220}Porusza siê szybko...
+{161228}{161278}Pod wiatr...
+{161298}{161348}Krebainy z Dunlandu!|Kryæ siê!
+{161354}{161420}Szybko!|Kryæ siê!
+{162220}{162260}Szpiedzy Sarumana.
+{162280}{162358}Przejœcie na po³udniu te¿ jest|pod obserwacj¹.
+{162384}{162464}Musimy obraæ trasê przez prze³êcz Karadhras.
+{162768}{162808}Frodo!
+{163264}{163318}Boromirze...
+{163324}{163424}Czy¿ to nie dziwne,|¿e musimy cierpieæ tyle obaw i w¹tpliwoœci...
+{163430}{163504}...z powodu tak ma³ej rzeczy...
+{163582}{163628}...tak ma³ej rzeczy...
+{163634}{163668}Boromirze!
+{163684}{163748}Oddaj Pierœcieñ Frodowi.
+{163984}{164032}Jak sobie ¿yczysz...
+{164050}{164098}Nie zale¿y mi na nim.
+{164946}{165060}Wiêc Gandalfie,... próbujesz ich|poprowadziæ przez Karadhras?
+{165064}{165174}A jeœli to zawiedzie?|Którêdy pójdziesz?
+{165206}{165276}Jeœli góra ciê pokona,...
+{165282}{165388}czy zaryzykujesz bardziej niebezpieczn¹ drogê?
+{165684}{165754}S³yszê jakiœ okropny g³os w powietrzu.
+{165780}{165816}To Saruman!
+{166030}{166142}On chce zawaliæ górê!|Gandalfie! Musimy zawróciæ!
+{166148}{166192}Nie!
+{166262}{166320}< "Losto Caradhras..." >|Œpij Caradhras...
+{166318}{166380}< "Sedho, hodo, nuitho i 'ruith!" >|Uspokój siê, powstrzymaj swój gniew!
+{166518}{166546}< "Cuiva nwalca Carnirassë!" >|ObudŸ siê okrutna Góro Kardahas!
+{166556}{166610}< "Nai yarvaxëa rasselya! Talto notto-carinnar!" >|Niech twój róg bêdzie poplamiony krwi¹!
+{167784}{167828}Musimy zejœæ z góry!
+{167840}{167942}Skierowaæ siê na Wrota Rohanu...|i obraæ drogê na zachód, do mojego miasta!
+{167948}{168028}Wrota Rohanu znajduj¹ siê|zbyt blisko Isengardu!
+{168034}{168122}Skoro nie mo¿emy przejœæ ponad gór¹,|przejdŸmy pod ni¹...
+{168128}{168196}PrzejdŸmy przez kopalnie Morii.
+{168240}{168332}Moria...|Obawiasz siê wejœcia do tych kopalñ...
+{168348}{168468}Krasnoludy dr¹¿y³y korytarze zbyt chciwie|i zbyt g³êboko.
+{168488}{168604}Wiesz dobrze, co zbudzi³y|w ciemnoœciach Khazad-dum...
+{168636}{168720}Cieñ i P³omieñ.
+{168800}{168866}Niech Powiernik Pierœcienia zadecyduje.
+{168978}{169028}Nie mo¿emy tu zostaæ!
+{169034}{169100}To zabije Hobbitów!
+{169104}{169144}Frodo?
+{169218}{169286}Pójdziemy przez kopalnie!
+{169306}{169352}Niech tak bêdzie.
+{169510}{169602}Frodo, chodŸ tu i pomó¿ starcowi...
+{169688}{169740}Jak tam twoje ramiê?
+{169746}{169824}Lepiej ni¿ przedtem.|A Pierœcieñ?
+{169862}{169922}Czujesz jak jego moc roœnie, prawda?
+{169932}{170002}Ja te¿ to poczu³em.|Musisz byæ teraz ostro¿ny.
+{170014}{170106}Z³o spróbuje dostaæ siê do ciebie z poza Dru¿yny...
+{170110}{170172}Obawiam siê, ¿e z samej Dru¿yny równie¿...
+{170236}{170334}Komu wiêc mam ufaæ?|Musisz ufaæ samemu sobie.
+{170340}{170408}Zaufaæ swoim w³asnym si³om.
+{170412}{170474}Co masz na myœli?|Jest wiele mocy na tym œwiecie...
+{170478}{170528}...dobrych i z³ych.
+{170532}{170588}Niektóre s¹ potê¿niejsze ode mnie...
+{170600}{170688}a z niektórymi jeszcze siê nie mierzy³em...
+{170722}{170754}Œciany...
+{170770}{170820}...Morii.
+{170958}{171030}Wrota krasnoludów s¹ niewidzialne,|kiedy s¹ zamkniête.
+{171034}{171142}Tak, Gimli, nawet ich w³adcy nie bêd¹ mogli ich znaleŸæ,|jeœli ich tajemnice zosta³y zapomniane.
+{171150}{171208}Dlaczego mnie to nie dziwi?
+{171400}{171480}Zobaczmy...
+{171486}{171520}Ithildin...
+{171534}{171616}w którym odbija siê jedynie|œwiat³o gwiazd i ksiê¿yca.
+{171952}{172050}Napis g³osi: "Drzwi Durina,|W³adcy Morii...
+{172064}{172176}"Powiedz przyjacielu i...wejdŸ".|Co to mo¿e oznaczaæ?
+{172180}{172294}To proste. Jeœli jesteœ przyjacielem,|musisz wypowiedzieæ has³o i drzwi siê otworz¹.
+{172318}{172380}Annon edhellen...
+{172390}{172410}...edro hi ammen!
+{172624}{172680}Fennas nogothrim...
+{172690}{172710}...lasto beth lammen!
+{172864}{172890}Nic siê nie dzieje.
+{173060}{173160}Zna³em kiedyœ ka¿de zaklêcie|we wszystkich jêzykach Elfów,
+{173168}{173234}...Ludzi i Orków.
+{173242}{173270}Wiêc co teraz zrobisz?
+{173276}{173330}Zapukaæ do tych drzwi twoj¹ g³ow¹, Peregrinie Tuk!
+{173336}{173382}I jeœli to ich nie roztrzaska...
+{173388}{173452}...i nie bêdziesz mi przeszkadza³ g³upimi pytaniami...
+{173456}{173538}...spróbujê znaleŸæ w³aœciwe s³owo.
+{173668}{173730}< "Ando Eldarinwa a lasta quettanya". >|Wrota Elfów s³uchajcie mojego s³owa...
+{173792}{173830}< "Fenda Casarinwa!" >|Progu krasnoludów!
+{173848}{173908}Kopalnie to nie miejsca dla kucyka.
+{173914}{174012}Nawet dla takiego dzielnego jak Bill.|¯egnaj Bill.
+{174042}{174108}Biegnij Bill, no dalej.
+{174120}{174206}Nie martw siê, Samie. Zna drogê do domu.
+{174368}{174430}Nie m¹æ wody!
+{174436}{174480}Nie, to jest bezu¿yteczne.
+{174784}{174836}To zagadka.
+{174902}{174978}Powiedz "przyjacielu" i wejdŸ.
+{174986}{175056}Jak brzmi s³owo "przyjaciel" w jêzyku Elfów?
+{175090}{175122}"Mellon".
+{175554}{175672}Wkrótce panie Elfie,|zakosztujesz s³ynnej, krasnoludzkiej goœcinnoœci.
+{175682}{175820}Buzuj¹ce ogniska, s³odowe piwo, czerwone miêso!
+{175856}{175930}To mój przyjacielu, jest dom mego kuzyna Balina.
+{175938}{175996}A oni zowi¹ go kopalni¹...
+{176000}{176048}Kopalni¹!
+{176072}{176152}To nie jest ¿adna kopalnia, to grobowiec.
+{176300}{176338}Nie...
+{176368}{176408}Nie!!
+{176470}{176508}Gobliny!
+{176602}{176704}Powinniœmy byli pójœæ przez Wrota Rohanu.|Nie powinniœmy tu przychodziæ.
+{176730}{176792}A teraz wynoœmy siê st¹d. Wynoœmy!
+{176858}{176916}Frodo!|Pomocy!
+{176920}{176958}Obie¿yœwiacie!
+{176964}{177030}Pomocy!|Zostaw go!
+{177034}{177060}Aragornie!
+{177310}{177334}Frodo!
+{177966}{177990}Do kopalni!
+{177996}{178072}Legolasie!|Do jaskini!
+{178176}{178218}Biegnijcie!
+{178622}{178708}Pozosta³a nam tylko jedna droga.
+{178714}{178830}Musimy stawiæ czo³a otch³aniom Morii.
+{178836}{178884}Miejcie siê na bacznoœci.
+{178888}{178970}S¹ stwory starsze|i bardziej odra¿aj¹ce od Orków...
+{178976}{179060}...ukryte w g³êbiach Œwiata.
+{179252}{179344}Uciszmy siê.|Mamy 4 dni drogi do drugiego wyjœcia.
+{179350}{179442}Miejmy nadziejê, ¿e nasza|obecnoœæ pozostanie niezauwa¿ona.
+{180540}{180628}Bogactwo Morii nie kryje siê w z³ocie...
+{180632}{180690}...czy klejnotach...
+{180694}{180768}...ale Mithrilu.
+{181208}{181324}Bilbo mia³ kolczugê z Mithrilu,|któr¹ da³ mu Thorin.
+{181330}{181424}To by³ zaiste królewski dar.|Tak.
+{181430}{181474}Nigdy mu nie powiedzia³em,...
+{181480}{181598}...¿e warta by³a wiêcej ni¿ ca³e Shire.
+{181894}{181936}Pippin.
+{182424}{182494}Nie przypominam sobie tego miejsca.
+{182544}{182578}Zab³¹dziliœmy?|Nie.
+{182582}{182644}Myœlê, ¿e tak.|Gandalf myœli.
+{182648}{182684}Merry!|Co?
+{182688}{182734}Jestem g³odny.
+{183006}{183114}Tam coœ jest  na dole.|To Gollum.
+{183118}{183218}Gollum?|Idzie za nami od trzech dni.
+{183222}{183322}Uciek³ z lochów Barad-dur?|Uciek³...
+{183340}{183378}...albo zosta³ wypuszczony.
+{183392}{183478}A teraz Pierœcieñ przyprowadzi³ go tutaj.
+{183542}{183608}Nigdy nie wyzbêdzie siê potrzeby jego posiadania.
+{183612}{183748}On nienawidzi i zarazem kocha Pierœcieñ,|tak jak nienawidzi i kocha siebie.
+{183754}{183870}¯ycie Smeagola, to smutna opowieœæ.
+{183874}{184018}Tak, kiedyœ nazywano go Smeagolem...|zanim znalaz³ go Pierœcieñ.
+{184040}{184108}Zanim doprowadzi³ go do szaleñstwa.
+{184114}{184182}Szkoda, ¿e Bilbo go nie zabi³, kiedy mia³ szansê.
+{184188}{184216}Szkoda?
+{184242}{184312}To w³aœnie litoœæ powstrzyma³a jego rêkê.
+{184334}{184458}Wielu ¿yj¹cych zas³uguje na œmieræ.|Niektórzy, którzy umieraj¹, zas³uguj¹ na ¿ycie.
+{184494}{184552}Czy mo¿esz im je zwróciæ, Frodo?
+{184610}{184704}Nie b¹dŸ zbyt pochopny w ferowaniu wyroków œmierci.
+{184710}{184780}Nawet mêdrzec|nie widzi wszystkiego, co bêdzie na koñcu.
+{184794}{184936}Moje serce mówi mi,|¿e Gollum odegra jeszcze jak¹œ rolê, dobr¹ lub z³¹...
+{184956}{185024}Zanim to wszystko siê dope³ni.
+{185060}{185152}Litoœæ Bilba, mo¿e zadecydowaæ o losie wielu.
+{185312}{185392}Chcia³bym, ¿eby Pierœcieñ nigdy do mnie nie trafi³...
+{185426}{185474}Chcia³bym, ¿eby to wszystko nie mia³o miejsca.
+{185480}{185600}Tak jak ka¿dy, komu przysz³o ¿yæ w tych|czasach. Ale nie im przysz³o o tym decydowaæ.
+{185620}{185752}My musimy zadecydowaæ o tym,|co zrobiæ z czasem, który zosta³ nam dany.
+{185788}{185884}Dzia³aj¹ na tym œwiecie i inne|si³y oprócz woli z³a, Frodo.
+{185894}{185952}Przeznaczeniem Bilba by³o znaleŸæ Pierœcieñ...
+{185964}{186066}Co oznacza,|¿e ty tak¿e jesteœ przeznaczony, do tego by go mieæ...
+{186072}{186148}i to jest zachêcaj¹ca myœl.
+{186264}{186310}To ta droga.
+{186316}{186370}Przypomnia³ sobie.|Nie...
+{186376}{186466}...tylko powietrze tutaj tak nie cuchnie.
+{186472}{186596}Jeœli masz w¹tpliwoœci, Meriadoku,|zawsze kieruj siê swoim nosem.
+{186952}{187052}Zaryzykujmy trochê wiêcej œwiat³a...
+{187162}{187212}Spójrzcie!
+{187222}{187348}Oto wielkie królestwo,|krasnoludzkie miasto Dwarrowdelf..
+{187408}{187490}To musi budziæ respekt,|bez w¹tpienia.
+{188088}{188128}Gimli!
+{188306}{188346}Nie!
+{188408}{188484}O, nie.
+{188528}{188558}Nie.
+{188732}{188780}"Tu le¿y Balin...
+{188792}{188840}...syn Fundina...
+{188846}{188910}...W³adca Morii."
+{188936}{188976}Wiêc umar³.
+{189016}{189058}Tego siê obawia³em.
+{189494}{189564}Musimy ruszaæ,|nie mo¿emy zwlekaæ.
+{189570}{189682}"Zajêli most...|i drug¹ salê..."
+{189708}{189770}"Zaryglowaliœmy wrota..."
+{189786}{189846}"...ale nie zdo³amy d³ugo siê opieraæ...."
+{189850}{189918}"Ziemia dr¿y..."
+{189928}{189966}"Bêbny...
+{189976}{190056}...bêbny w g³êbinach..."
+{190142}{190190}"Nie mo¿emy siê wydostaæ..."
+{190238}{190330}"Cieñ porusza w ciemnoœciach..."
+{190370}{190432}"Nie mo¿emy siê wydostaæ..."
+{190504}{190550}"Nadchodz¹..."
+{191582}{191626}G³upi Tuku!
+{191636}{191726}Nastêpnym razem rzuæ siê sam|i oszczêdŸ nam swojej g³upoty.
+{192350}{192390}Frodo!
+{192446}{192480}Orkowie!
+{192648}{192696}Cofnijcie siê! Trzymajcie siê blisko Gandalfa!
+{192870}{192914}Jest z nimi troll jaskiniowy.
+{193292}{193320}Niech wejd¹!
+{193332}{193418}Zosta³ jeszcze jeden krasnolud w Morii,|w którym wci¹¿ kipi krew.
+{196748}{196814}Chyba zaczynam siê wprawiaæ.
+{196926}{196968}Frodo!
+{197772}{197816}Aragornie, Aragornie!
+{197842}{197886}Frodo!
+{198968}{199014}Frodo!
+{200458}{200488}O nie...
+{200690}{200736}¯yje.
+{200794}{200866}Wszystko w porz¹dku.|Nie jestem ranny.
+{200870}{200924}Powinieneœ byæ martwy...
+{200928}{200988}To by³o potê¿ne pchniêcie!
+{200994}{201108}Myœlê, ¿e w tym  Hobbicie jest coœ wiêcej,|ni¿ na pozór siê wydaje.
+{201248}{201274}Mithril.
+{201340}{201404}Jesteœ pe³en niespodzianek, panie Baggins.
+{201548}{201594}Do mostu Khazad-dum!
+{201954}{201994}Têdy!
+{203682}{203752}Co to za nowe diabelstwo?
+{204138}{204204}Balrog.
+{204212}{204288}Demon staro¿ytnego Œwiata.
+{204340}{204398}Z tym przeciwnikiem, ¿aden z was nie|mo¿e siê mierzyæ.
+{204426}{204464}Biegnijcie!
+{204640}{204676}Szybko!
+{205075}{205106}Gandalfie...
+{205120}{205158}ProwadŸ ich dalej, Aragornie.
+{205192}{205252}Most jest blisko.
+{205301}{205400}Rób, co mówiê!|Miecze na nic siê tu nie przydadz¹.
+{206099}{206140}Gandalfie!
+{206578}{206608}Merry! Pippin!
+{206875}{206912}Samie!
+{206976}{207054}Nikt nie bêdzie rzucaæ Krasnoludem.
+{207127}{207162}Nie za brodê!
+{207478}{207525}Spokojnie.
+{207575}{207614}Trzymaj siê!
+{208120}{208149}Trzymaj siê!
+{208406}{208449}Pochyl siê do przodu!
+{208520}{208544}Spokojnie.
+{208576}{208604}No dalej!
+{208610}{208646}Teraz!
+{209058}{209100}Na most!
+{209106}{209144}Pêdem!
+{210212}{210262}Nie przejdziesz!
+{210266}{210304}Gandalfie!
+{210406}{210524}Jam jest s³ug¹ Tajemnego Ognia,|w³adam P³omieniem Anoru.
+{210548}{210638}Ciemny ogieñ na nic ci siê nie zda,|P³omieniu z Udunu!
+{210877}{210925}Wracaj do Cienia.
+{211112}{211220}Nie przejdziesz!
+{211870}{211964}Nie, nie!|Gandalfie!
+{212148}{212206}Uciekajcie g³upcy!
+{212306}{212358}Nie!!!
+{212504}{212556}Aragornie!
+{213930}{213998}Legolasie, zbierz ich!
+{214096}{214140}Daj im chwilê, na mi³oœæ Bosk¹!
+{214146}{214232}Do nocy, na tych wzgórzach roiæ siê bêdzie od Orków!
+{214238}{214318}Musimy dotrzeæ do lasów Lothlorien.
+{214340}{214418}ChodŸ Boromirze.|Legolasie, Gimli, zbierzcie ich!
+{214454}{214508}Stawaj na nogi, Samie.
+{214516}{214551}Frodo?
+{214600}{214642}Frodo!
+{215900}{215960}Trzymajcie siê blisko Hobbici.
+{215980}{216077}Powiadaj¹, ¿e potê¿na czarownica|mieszka w tych lasach.
+{216082}{216144}Elfia wiedŸma...
+{216156}{216225}...o wielkiej mocy.
+{216238}{216292}Wszyscy, którzy na ni¹ spojrz¹...
+{216297}{216340}...poddaj¹ siê jej urokowi...
+{216344}{216375}< Frodo... >
+{216430}{216478}...i przepadaj¹ bez wieœci na wieki.
+{216484}{216592}< Twoje przyjœcie do nas,|jest podyktowane przeznaczeniem... >
+{216597}{216686}< Przynosisz tu wielkie z³o...|Powierniku Pierœcienia... >
+{216690}{216732}Panie Frodo...
+{216860}{216994}Jest tu jednak jeden Krasnolud,|którego tak ³atwo nie usidli...
+{216999}{217108}Mam oczy soko³a i uszy lisa.
+{217292}{217401}Krasnolud oddycha tak g³oœno,|¿e mo¿na trafiæ go w ciemnoœci.
+{217525}{217573}< "Mae govannen, Legolas Thranduilion" >|Witaj Legolasie, synu Thranduila.
+{217594}{217658}< "Govannas vîn gwennen le, Haldir o Lórien" >|Nasza Dru¿yna jest ci zobowi¹zana, Haldirze z Lorien.
+{217725}{217766}< "A Aragorn in Dúnedain..." >|Aragornie z Dunedainów...
+{217782}{217816}< "...istannen le ammen" >|...Twoje imiê jest nam znane.
+{217836}{217890}< "Hennaid" > Dziêkujê.|To jest w³aœnie legendarna uprzejmoœæ Elfów!
+{217896}{217940}Mówcie w jêzyku, który wszyscy zrozumiej¹!
+{217946}{218056}Nie zadajemy siê z Krasnoludami od czasów Ciemnych Dni.
+{218062}{218123}A wiesz, co ten krasnolud ci na to odpowie?
+{218138}{218210}Ishkhaqwi ai durugnul!
+{218286}{218334}To nie by³o zbyt uprzejme.
+{218490}{218588}Przyprowadzasz ze sob¹ wielkie z³o.
+{218630}{218682}Nie mo¿ecie iœæ dalej.
+{218834}{219090}< "Boe ammen veriad lîn.|Andelu i ven." >
+{219427}{219480}< "Merin le telim." >
+{219494}{219530}< "Henio, aníron boe ammen i dulu lîn." >
+{219544}{219570}< "Andelu i ven." >
+{219580}{219642}Œmieræ Gandalfa nie by³a bezcelowa.
+{219670}{219716}Nie mo¿esz traciæ nadziei.
+{219751}{219832}Niesiesz wielki ciê¿ar, Frodo.
+{219851}{219926}Nie próbuj dŸwigaæ go a¿ do œmierci.
+{219994}{220044}Pójdziecie za mn¹.
+{220325}{220372}Caras Galadhon.
+{220386}{220456}Tu jest serce królestwa Elfów na ziemi.
+{220462}{220598}Królestwo Pana Celeborna i Galadrieli, Pani Œwiat³a.
+{222494}{222568}Wróg wie, ¿e tu dotarliœcie...
+{222584}{222708}Nadzieja, ¿e zostanie to tajemnic¹, upad³a.
+{222750}{222856}Jest was oœmiu,|chocia¿ dziewiêciu wyruszy³o z Rivendell.
+{222862}{222904}Powiedzcie mi, gdzie jest Gandalf?
+{222910}{222984}Jako, ¿e bardzo pragnê z nim porozmawiaæ.
+{222988}{223056}< "I can no longer see him from afar." >|Lecz nie mogê dostrzec go w tej dali.
+{223076}{223200}Gandalf Szary nie przekroczy³ granic tej ziemi.
+{223206}{223266}Wpad³ w otch³añ Cienia.
+{223377}{223486}Zosta³ zaatakowany przez Cieñ i P³omieñ...
+{223525}{223614}Balroga od Morgotha.
+{223632}{223712}Bez potrzeby wszed³ w pu³apkê Morii.
+{223764}{223842}Nic, co robi³ Gandalf za ¿ycia,|nie by³o niepotrzebne.
+{223856}{223936}Nie znamy jeszcze jego ca³ego zamys³u.
+{224050}{224152}Nie pozwól, ¿eby wielka pustka|Khazad-dum wype³ni³a twoje serce,
+{224158}{224214}...Gimli, synu Gloina.
+{224238}{224323}Œwiat jest teraz pe³en niebezpieczeñstw......
+{224358}{224420}...i na wszystkich ziemiach...
+{224425}{224510}...mi³oœæ miesza siê z ¿alem.
+{224812}{224877}Co teraz stanie siê z Dru¿yn¹?
+{224890}{224962}Bez Gandalfa, nie ma nadziei...
+{225034}{225112}Powodzenie wyprawy zawis³o na ostrzu no¿a.
+{225116}{225190}Jeœli zboczycie choæ o w³os,|wszystko przepadnie...
+{225208}{225276}...grzebi¹c nas pod gruzami.
+{225380}{225520}Jednak jest wci¹¿ nadzieja ...|dopóki dru¿yna jest wierna sprawie.
+{225558}{225672}Nie dopuszczajcie lêku do serc.|IdŸcie teraz i odpocznijcie...
+{225682}{225770}...bo jesteœcie wyczerpani ¿alem i znojem.
+{225824}{225875}Dzisiejsz¹ noc przeœpicie spokojnie...
+{225882}{225964}< Witaj Frodo z Shire... >
+{225999}{226042}< Ty, który widzia³eœ Oko! >
+{226392}{226453}Pieœñ ¿a³obna za Gandalfa...
+{226628}{226666}Co o nim œpiewaj¹?
+{226672}{226734}Nie mam serca, ¿eby wam powiedzieæ.
+{226803}{226858}Dla mnie ta rana jest jeszcze zbyt œwie¿a.
+{226928}{226996}Nic nie wspomnieli o Jego fajerwerkach...
+{227000}{227073}Powinien byæ o nich choæ jeden wers.
+{227158}{227206}< "Najwspanialsze jakie kiedykolwiek widzia³em rakiety..." >
+{227234}{227301}< "Niczym wybuchaj¹ce gwiazdy ubrane w zielenie i b³êkity..." >
+{227324}{227448}< "Albo po grzmotach prysznic srebrny te¿..." >
+{227466}{227532}< "Spada niczym kwiatów deszcz..." >
+{227536}{227630}To nie oddaje tego najlepiej.
+{227886}{227950}Odpocznijcie trochê.
+{227956}{228020}Te granice s¹ dobrze strze¿one.
+{228025}{228084}Ja nie znajdê tu odpoczynku.
+{228153}{228225}Us³ysza³em jej g³os w mojej g³owie...
+{228232}{228320}Mówi³a o moim ojcu i upadku Gondoru...
+{228325}{228456}Powiedzia³a mi:|"Nawet teraz jest jeszcze nadzieja"
+{228488}{228556}Ale ja jej nie widzê.
+{228588}{228649}Tak du¿o czasu minê³o, odk¹d nie mamy ju¿ nadziei...
+{228892}{228944}Mój ojciec, to szlachetny cz³owiek,
+{228962}{229016}lecz jego rz¹dy upadaj¹...
+{229090}{229153}...i nasi ludzie trac¹ wiarê...
+{229188}{229272}On oczekuje, ¿e odnowiê œwietnoœæ Gondoru...|A ja... ja chcia³bym, to zrobiæ.
+{229276}{229362}Chcia³bym znów zobaczyæ Gondor w chwale...
+{229430}{229501}Czy mia³eœ okazjê to zobaczyæ, Aragornie?
+{229516}{229564}Bia³¹ Wie¿ê Ectheliona...
+{229570}{229662}migocz¹ca w s³oñcu jak w³ócznia z pere³ i srebra...
+{229677}{229762}Jej sztandary uniesione wysoko|przez porann¹ bryzê...
+{229830}{229877}Czy, kiedykolwiek by³eœ wzywany do domu...
+{229882}{229976}...poprzez czysty dŸwiêk srebrnych tr¹bek.
+{229992}{230070}Widzia³em Bia³e Miasto...
+{230077}{230114}...dawno temu.
+{230136}{230256}Pewnego dnia,|nasza œcie¿ka nas tam doprowadzi.
+{230278}{230349}I stra¿nik na wie¿y obwieœci:
+{230360}{230440}"Panowie Gondoru wrócili"...
+{232050}{232110}Czy spojrzysz w Zwierciad³o?
+{232116}{232152}Co w nim zobaczê?
+{232224}{232280}Nawet mêdrzec nie potrafi powiedzieæ,...
+{232301}{232346}...bo zwierciad³o...
+{232350}{232412}...pokazuje wiele rzeczy.
+{232484}{232540}Rzeczy, które by³y...
+{232546}{232606}Rzeczy, które s¹...
+{232625}{232673}I niektóre rzeczy,...
+{232758}{232838}które jeszcze nie sta³y siê przesz³oœci¹...
+{234816}{234884}Wiem, czym jest, to co zobaczy³eœ...
+{234944}{235004}Poniewa¿ ten sam widok pojawi³ siê równie¿ w moich myœlach.
+{235048}{235144}< To widok tego, co by siê sta³o ...,|jeœlibyœ zawiód³. >
+{235201}{235318}< Dru¿yna siê rozpada...|To ju¿ siê rozpoczê³o.... >
+{235334}{235412}< On bêdzie chcia³ przej¹æ Pierœcieñ... >
+{235418}{235466}< Wiesz o kim mówiê... >
+{235490}{235601}< Jednego po drugim,...|zniszczy ich wszystkich. >
+{235638}{235697}< Jeœli mnie o to prosisz,... >
+{235706}{235780}< ...dam ci Jedyny Pierœcieñ >
+{235804}{235856}Chcesz oddaæ mi Pierœcieñ dobrowolnie?
+{235966}{236060}Nie zaprzeczam, ¿e moje serce wielce tego po¿¹da...
+{236214}{236292}Na miejscu W³adcy Ciemnoœci mia³byœ Królow¹...
+{236303}{236394}Nie mroczn¹,|ale piêkn¹ i straszn¹ jak Sauron!
+{236410}{236482}Zdradliw¹ jak morze!
+{236494}{236612}Potê¿niejsz¹ ni¿ fundamenty Ziemi!
+{236624}{236680}Wszyscy kochaliby mnie...
+{236686}{236753}...i rozpaczali!
+{237092}{237196}Przesz³am próbê. Wyrzekn¹ siê wielkoœci...
+{237201}{237260}Odejdê na Zachód...
+{237266}{237373}...i pozostanê Galadriel¹.|Nie potrafiê tego zrobiæ sam.
+{237460}{237558}Ty jesteœ Powiernikiem Pierœcienia, Frodo...|Nosiæ Pierœcieñ W³adzy,
+{237580}{237616}...oznacza samotnoœæ.
+{237697}{237762}To jest Nenya,|Pierœcieñ z Diamentem.
+{237768}{237806}A ja jestem jego w³aœcicielk¹.
+{237882}{237970}To zadanie by³o tobie przeznaczone...
+{237994}{238064}I jeœli ty nie znajdziesz drogi,
+{238092}{238140}...nikt jej nie znajdzie.
+{238150}{238225}Wiem, co muszê zrobiæ...
+{238242}{238270}Tylko, ¿e...
+{238349}{238402}...bojê siê to uczyniæ.
+{238486}{238610}Nawet najmniejsza osoba mo¿e odmieniæ|bieg przysz³oœci.
+{238738}{238875}Czy wiesz, jak narodzili siê pierwsi Orkowie?
+{238894}{238974}Kiedyœ byli Elfami.
+{239001}{239082}Uprowadzeni przez Moce Ciemnoœci...
+{239086}{239162}Torturowani i okaleczani...
+{239170}{239297}Upodlona, potworna forma ¿ycia.
+{239304}{239348}A teraz...
+{239384}{239428}...udoskonalona.
+{239446}{239522}Moi waleczni Uruk-hai...
+{239568}{239623}Komu bêdziesz s³u¿y³?
+{239628}{239688}Sarumanowi!
+{240188}{240270}Œcigaæ ich! Nie zatrzymujcie siê,|dopóki nie zostan¹ odnalezieni!
+{240275}{240344}Nie wiecie czym jest ból,|nie znacie strachu.
+{240350}{240420}Poznacie smak ludzkiego miêsa!
+{240542}{240630}Jeden z nizio³ków niesie coœ o wielkiej wartoœci...
+{240634}{240736}PrzyprowadŸcie ich do mnie ¿ywych i ca³ych.
+{240778}{240810}Innych, zabiæ!
+{241270}{241400}Nigdy przedtem nie ubieraliœmy obcych w ubrania naszych ludzi.
+{241427}{241518}Mam nadziejê, ¿e uchroni¹ Was od nieprzyjaznych oczu.
+{241692}{241730}Lembas.
+{241736}{241775}Elficki chleb podró¿ny.
+{241834}{241906}Jeden ma³y kês jest w stanie|zape³niæ ¿o³¹dek doros³ego mê¿czyzny.
+{242062}{242108}Ile zjad³eœ?
+{242112}{242152}Cztery.
+{242292}{242353}Z ka¿d¹ mil¹ niebezpieczeñstwo bêdzie narastaæ...
+{242358}{242456}Orkowie z Mordoru strzeg¹ wschodniego brzegu Anduiny.
+{242462}{242522}Ale na zachodnim brzegu te¿ nie bêdziecie bezpieczni...
+{242526}{242618}Dziwne stworzenia ze znakiem Bia³ej Rêki|by³y widziane u naszych granic.
+{242623}{242744}Rzadko Orkowie pokazuj¹ siê|przy œwietle s³onecznym, jednak te tak zrobi³y.
+{242952}{243014}< "Le aphadar aen." >|Jesteœcie tropieni.
+{243049}{243160}P³yn¹c rzek¹ a¿ do wodospadu Rauros,|macie szansê wyprzedziæ nieprzyjaciela.
+{243575}{243688}Mój podarunek dla ciebie Legolasie...|To ³uk Galadhrim...
+{243694}{243777}Stosowny do umiejêtnoœci|naszego leœnego rodu.
+{243906}{243964}To s¹ mieczyki z Noldorskiej stali,...
+{243970}{244064}które ju¿ siê sprawdzi³y w boju.
+{244070}{244124}Nie bój siê, m³ody Peregrinie Tuku...
+{244128}{244208}odnajdziesz swoj¹ odwagê...
+{244252}{244300}A dla ciebie Samwisie Gamgee,
+{244304}{244364}...lina Elfów zrobion¹ z hithlainu.
+{244370}{244420}Dziêkujê, proszê pani.
+{244464}{244544}Nie masz ju¿ wiêcej tych piêknych, lœni¹cych sztyletów?
+{244699}{244770}A o jaki dar chcia³by prosiæ Elfy Krasnolud?
+{244775}{244826}O nic...
+{244842}{244922}z wyj¹tkiem ostatniego spojrzenia na Pani¹ Galadrielê,
+{244936}{245062}...gdy¿ jej piêknoœæ jest wiêksza,|ni¿ wszystkie dziwy na Ziemi!
+{245230}{245268}W³aœciwie,...
+{245273}{245312}to jest jedna rzecz...
+{245332}{245394}Nie, nie. Nie móg³bym...|To raczej niemo¿liwe.
+{245400}{245466}G³upio o to prosiæ.
+{245527}{245576}Nie mam ci nic wiêkszego do podarowania...
+{245582}{245668}...ni¿ dar, który ju¿ nosisz.
+{245699}{245723}< "Am meleth dîn." >|Bojê siê...
+{245754}{245882}< "I ant e-guil Arwen Undómiel pelitha." >|¿e z mi³oœci do Ciebie uroda Arweny, Gwiazdy Wieczornej, zblednie.
+{245901}{245980}< "Aníron i e broniatha," >|Opuœci brzegi Œródziemia,
+{246016}{246086}< "ar periatham... amar hen" >|i zostanie ze swoim ludem.
+{246136}{246272}< "Aníron e ciratha a Valannor." >|Chcê, ¿eby pop³ynê³a statkiem do Valinoru.
+{246278}{246351}Ten wybór jest jeszcze przed ni¹.
+{246370}{246438}Ty masz do podjêcia swoj¹ w³asn¹ decyzjê,|Aragornie.
+{246447}{246586}Wznieœæ siê ponad wszystkich swoich przodków,|od czasów Elendila...
+{246590}{246694}...albo stoczyæ siê w cieñ,|z tym wszystkim, co zosta³o z twojego rodu...
+{246868}{246900}¯egnaj.
+{246992}{247074}Masz jeszcze wiele do zrobienia.
+{247230}{247260}< "Dan, ú-'eveditham..." >|Ju¿ siê nie spotkamy...
+{247264}{247298}< "Elessar." >|Elessarze.
+{247356}{247432}¯egnaj, Frodo Baggins.
+{247436}{247518}Dajê ci œwiat³o Earendila...
+{247536}{247592}Naszej najukochañszej gwiazdy.
+{247812}{247918}Niech bêdzie dla ciebie œwiat³em|w Ciemnoœci,
+{247923}{248022}kiedy wszystkie inne œwiat³a zgasn¹.
+{248236}{248312}Dozna³em najgorszej rany|podczas tego rozstania.
+{248327}{248430}Spogl¹daj¹c po raz ostatni,|na coœ najpiêkniejszego.
+{248449}{248528}Odt¹d, nigdy ju¿ nic nie nazwê piêknym,|chyba, ¿e bêdzie to dar od niej.
+{248534}{248580}Jaki by³ jej dar?
+{248586}{248703}Poprosi³em j¹ o jeden w³os z jej z³otej g³owy...
+{248723}{248792}A ona da³a mi trzy...
+{251242}{251324}Gollum. Œledzi nas od Morii.
+{251414}{251488}Mia³em nadziejê, ¿e zgubimy go na rzece...
+{251494}{251570}ale on jest zbyt dobrym p³ywakiem.
+{251590}{251668}Jeœli powiadomi nieprzyjaciela o naszym po³o¿eniu...
+{251673}{251725}...przeprawa stanie siê jeszcze bardziej niebezpieczna.
+{251730}{251778}Proszê coœ zjeœæ, panie Frodo.
+{251784}{251856}Nie, Samie.|Ale nie jad³ pan ca³y dzieñ.
+{251862}{251936}Nie zmru¿y³ pan te¿ oka.|Niech pan nie myœli, ¿e tego nie zauwa¿y³em.
+{251960}{252032}Panie Frodo...|Nic mi nie jest.
+{252038}{252064}Ale¿ to nieprawda.
+{252073}{252130}Jestem tu po to, ¿eby panu pomóc.
+{252136}{252176}Obieca³em Gandalfowi,|¿e tak bêdzie.
+{252320}{252386}Nie mo¿esz mi pomóc Samie...
+{252436}{252478}Nie tym razem...
+{252548}{252599}Przeœpij siê trochê.
+{252748}{252800}Szlak do Minas Tirith jest bezpieczniejszy.
+{252814}{252880}Wiesz o tym.|Tam moglibyœmy siê przegrupowaæ.
+{252896}{252950}Uderzyæ prosto na Mordor z silnej pozycji.
+{252956}{253025}Nie ma si³y w Gondorze,|z której moglibyœmy skorzystaæ.
+{253036}{253084}Elfom szybko uwierzy³eœ...
+{253128}{253196}...a tak ma³¹ wiarê masz we w³asny lud?
+{253200}{253272}Tak, jest u nich s³aboœæ, obawa ...
+{253276}{253356}...ale nie jest im obca odwaga,... ani honor!
+{253362}{253414}Ale Ty tego nie widzisz!
+{253423}{253456}Boisz siê!
+{253462}{253525}Ca³e ¿ycie ukrywa³eœ siê w cieniu.
+{253530}{253614}Boj¹c siê tego, kim jesteœ... i czym jesteœ!
+{253672}{253776}Nie bêdê prowadzi³ Pierœcienia przez setki mil, do Twojego miasta!
+{254060}{254092}Frodo
+{254138}{254174}Argonath
+{254256}{254346}Od dawna pragn¹³em,|by ujrzeæ podobizny Wielkich Królów...
+{254364}{254410}moich przodków.
+{256304}{256358}Przebêdziemy jezioro po zmroku...
+{256362}{256424}Ukryjemy ³odzie i dalej pójdziemy pieszo.
+{256430}{256512}Zbli¿ymy siê do Mordoru od pó³nocy.|Doprawdy?
+{256520}{256610}Dla ciebie to taka zwyk³a rzecz znaleŸæ drogê przez Emyn Muil?
+{256616}{256694}To niemo¿liwy do przejœcia labirynt|ostrych jak brzytwa ska³.
+{256700}{256774}A póŸniej...|Jest jeszcze ciekawiej.
+{256784}{256900}J¹trz¹ce siê, œmierdz¹ce bagna,|jak okiem siêgn¹æ...
+{256906}{256940}To jest nasza droga.
+{256976}{257052}Proponuje, ¿ebyœ trochê odpocz¹³|i podreperowa³ swoje si³y, panie Krasnoludzie.
+{257058}{257099}Podreperowaæ moje...
+{257172}{257218}Powinniœmy wyruszyæ ju¿ teraz.|Nie.
+{257224}{257328}Orkowie patroluj¹ wschodni brzeg.|Musimy poczekaæ na os³onê ciemnoœci.
+{257334}{257416}To nie wschodni brzeg mnie martwi.
+{257423}{257518}Cieñ i groŸba roœnie w moim umyœle.
+{257530}{257632}Coœ czai siê w pobli¿u, czujê to.
+{257678}{257797}Podreperowaæ si³y?|Nie przejmuj siê tym m³ody Hobbicie.
+{257810}{257850}Gdzie jest Frodo?
+{258464}{258510}Nikt z nas nie powinien w³óczyæ siê samotnie.
+{258544}{258594}Zw³aszcza ty.
+{258600}{258658}Tak wiele od ciebie zale¿y.
+{258684}{258730}Frodo?
+{258900}{258962}Wiem dlaczego szukasz odosobnienia.
+{258980}{259062}Cierpisz...|Widzê to ka¿dego dnia.
+{259080}{259154}Czy nie s¹dzisz, ¿e cierpisz zbytecznie?
+{259194}{259258}S¹ inne drogi, Frodo.
+{259262}{259354}Inne œcie¿ki które moglibyœmy obraæ.|Wiem, co byœ mi powiedzia³.
+{259360}{259450}Zabrzmia³oby to jak m¹droœæ,|gdyby nie ostrzega³o mnie moje serce.
+{259456}{259530}Ostrzega³o?|Przed czym?
+{259534}{259586}Wszyscy siê boimy, Frodo.
+{259590}{259677}Ale doprowadziæ do tego, ¿eby ten strach nas opanowa³,|zniszczy³ nadziejê, która nam zosta³a...
+{259682}{259774}...nie widzisz, ¿e to szaleñstwo?|Nie ma innej drogi.
+{259816}{259896}Proszê tylko o si³ê, ¿eby obroniæ mój lud.
+{259934}{259982}Gdybyœ tylko u¿yczy³ mi Pierœcienia.|Nie!
+{260012}{260100}Dlaczego odsuwasz siê ode mnie? Nie jestem z³odziejem.|Nie jesteœ sob¹!
+{260144}{260224}Jak myœlisz, jakie masz szanse?
+{260228}{260340}Znajd¹ ciê.|Odbior¹ ci Pierœcieñ...
+{260346}{260434}I bêdziesz b³aga³ o œmieræ,|zanim siê to skoñczy.
+{260486}{260536}G³upcze!
+{260540}{260636}Jest twój, tylko dziêki|szczêœliwiemu zbiegowi okolicznoœci!
+{260640}{260708}Powinien byæ mój! Daj mi go!
+{260712}{260742}Daj mi go!|Nie!
+{260748}{260792}Daj mi go!|Nie!
+{260975}{261024}Przejrza³em ciê.
+{261028}{261100}Zaniesiesz Pierœcieñ Sauronowi!
+{261104}{261150}Zdradzisz nas!
+{261154}{261232}Doprowadzisz do swojej œmierci|i do œmierci nas wszystkich.
+{261242}{261330}Przeklinam ciê!|Przeklinam ciebie i wszystkich Nizio³ków!
+{261499}{261536}Frodo?
+{261638}{261676}Frodo.
+{261770}{261820}Co ja zrobi³em?
+{261825}{261866}Proszê, Frodo...
+{261870}{261934}Frodo, przepraszam ciê!
+{262632}{262680}< PrzyjdŸ do mnie! >
+{263100}{263132}Frodo?
+{263164}{263238}Opanowa³ Boromira.|Gdzie jest Pierœcieñ?
+{263242}{263286}Nie zbli¿aj siê!
+{263296}{263332}Frodo!
+{263388}{263480}Przysiêga³em ciê ochraniaæ.|Czy, mo¿esz ochroniæ mnie przed samym sob¹?
+{263712}{263770}Czy ty, zniszczy³byœ go?
+{263890}{263936}< Aragornie... >
+{264020}{264074}< Aragornie... >
+{264118}{264162}< Elessarze... >
+{264346}{264426}Poszed³bym z tob¹ do koñca...
+{264442}{264510}Do samego ognia Mordoru.
+{264590}{264618}Wiem.
+{264678}{264808}Zaopiekuj siê reszt¹. Zw³aszcza Samem.|On nie zrozumie.
+{264898}{264940}Uciekaj Frodo!
+{265012}{265048}Biegnij!
+{265054}{265094}Biegnij!
+{265682}{265722}Panie Frodo!
+{265944}{265988}ZnaleŸæ nizio³ki!
+{266026}{266088}ZnaleŸæ nizio³ki!
+{266170}{266210}Elendil!
+{266366}{266404}Aragornie! Biegnij!
+{266924}{266956}Frodo!
+{266970}{267008}Ukryj siê tutaj, szybko!
+{267024}{267058}No dalej!
+{267118}{267166}Co on robi?
+{267268}{267316}Odchodzi.
+{267430}{267500}Nie!|Pippinie!
+{267618}{267674}Biegnij Frodo!|Ju¿!
+{267688}{267762}Hej, hej ty!|Tutaj!
+{267772}{267810}Tutaj!|Têdy!
+{268070}{268126}To dzia³a!|Wiem, ¿e to dzia³a, biegnij!
+{269454}{269528}Róg Gondoru!|Boromir.
+{270560}{270586}Biegnijcie!
+{275660}{275698}Nie.
+{275792}{275864}Zabrali malców!|Le¿ spokojnie.
+{275872}{275920}Frodo...|Gdzie jest Frodo?
+{275966}{276000}Pozwoli³em mu odejœæ.
+{276016}{276078}Wiêc zrobi³eœ to,|czego ja nie potrafi³em zrobiæ.
+{276104}{276182}Próbowa³em odebraæ mu Pierœcieñ.
+{276196}{276296}Pierœcieñ jest teraz poza naszym zasiêgiem.|Wybacz mi.
+{276302}{276356}By³em zaœlepiony...
+{276362}{276438}Zawiod³em was wszystkich.|Nie, Boromirze.
+{276448}{276510}Walczy³eœ dzielnie.
+{276516}{276580}Zachowa³eœ swój honor.
+{276596}{276640}Zostaw to!
+{276648}{276698}To ju¿ koniec.
+{276728}{276852}Œwiat Ludzi upadnie.|I wszystko pogr¹¿y siê w ciemnoœci...
+{276864}{276936}a moje miasto legnie w gruzach.
+{277032}{277098}Nie wiem, jaka si³a p³ynie w mojej krwi...
+{277102}{277198}Ale przysiêgam ci,|¿e nie dopuszczê do upadku Bia³ego Miasta...
+{277222}{277282}ani do pora¿ki naszego ludu.
+{277306}{277338}Naszego ludu...
+{277430}{277480}Naszego ludu...
+{278002}{278074}Poszed³bym za tob¹, mój bracie...
+{278112}{278160}Mój kapitanie...
+{278222}{278268}Mój królu...
+{278740}{278794}Spoczywaj w pokoju,
+{278802}{278850}...synu Gondoru.
+{279246}{279326}Bêd¹ wypatrywali jego powrotu|z Bia³ej Wie¿y...
+{279338}{279410}ale on nie wróci.
+{279966}{280014}Frodo!
+{280480}{280560}"Chcia³bym, ¿eby Pierœcieñ nigdy do mnie nie trafi³..."
+{280590}{280662}"¯eby nic takiego siê nie sta³o."
+{280732}{280798}< "To tak jak wszyscy,|którzy do¿yli takich czasów." >
+{280804}{280886}"Ale to nie do nich nale¿y decyzja."
+{280892}{280954}< "Ty musisz zadecydowaæ o tym... >
+{280960}{281072}< ...co zrobiæ z czasem,|który zosta³ ci dany." >
+{281764}{281814}Frodo, nie!
+{281828}{281858}Frodo!
+{281878}{281942}Panie Frodo!|Nie, Samie.
+{282026}{282072}Wracaj, Samie!
+{282086}{282170}Idê sam do Mordoru.|Jasne, ¿e tak...
+{282176}{282244}A ja idê z panem!
+{282256}{282314}Nie umiesz p³ywaæ!
+{282404}{282446}Samie!
+{282580}{282612}Samie!
+{283592}{283658}Z³o¿y³em przysiêgê panie Frodo.
+{283666}{283770}Przysiêgê.|"Nie opuœæ go, Samie Gamgee!"
+{283796}{283860}I nie zamierzam.
+{283866}{283918}Nie zamierzam.
+{283958}{284002}Samie!
+{284358}{284398}ChodŸ wiêc.
+{285080}{285190}Pospieszcie siê!|Frodo i Sam osi¹gnêli wschodni brzeg.
+{285546}{285666}Nie zamierzasz iœæ za nimi.|Los Froda nie jest ju¿ d³u¿ej w naszych rêkach.
+{285748}{285866}Wiêc wszystko by³o na pró¿no.|Dru¿yna siê rozpad³a.
+{286150}{286226}Nie, jeœli my bêdziemy trzymaæ siê razem.
+{286258}{286366}Nie dopuœcimy, aby Merry i Pippin byli torturowani lub zabici.
+{286390}{286514}Nie, dopóki starczy nam si³.|Zostawcie wszystko, co niepotrzebne.
+{286546}{286594}Bêdziemy biec bez obci¹¿enia.
+{286600}{286646}Upolujmy paru Orków.
+{286716}{286766}Tak! Ha!
+{287220}{287256}Mordor.
+{287270}{287350}Mam nadziejê,|¿e inni znajd¹ bezpieczniejsz¹ drogê.
+{287374}{287434}Obie¿yœwiat siê nimi zaopiekuje.
+{287458}{287538}Nie s¹dzê, ¿ebyœmy ich jeszcze kiedyœ zobaczyli.
+{287546}{287604}Kto wie, panie Frodo...
+{287610}{287646}Kto wie...
+{287696}{287722}Samie...
+{287808}{287870}...cieszê siê, ¿e jesteœ ze mn¹.
+{287974}{288056}Posklejanie, zmiany i dodatki w³asne: <^>sinhue<^>
+{288056}{288190}Wykorzysta³em t³umaczenia:
+{288190}{288276}< Melinea & Timmy|softSTORM CREW >
+{288276}{288366}< Psyborga i Tibiego >
+{288466}{288566}< QbaSOFT >
+{288666}{288766}< Olksma Yamu Notru 20020531 >
+{288866}{288966}>>> dopasowal MASAXER <<<
+{289066}{289166}Napisy pobrane z http://napisy.org <<|>>>>>>>> nowa wizja napisów <<<<<<<<
